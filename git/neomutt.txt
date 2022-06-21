@@ -4,6 +4,8 @@ neomutt,25959223+x3nb63@users.noreply.github.com,x3nb63,preferred,x3nb63,2595922
 neomutt,44787359+AdamKorcz@users.noreply.github.com,adamkorcz,preferred,Adam Korcz,44787359+AdamKorcz@users.noreply.github.com
 neomutt,44787359+AdamKorcz@users.noreply.github.com,adamkorcz,secondary,AdamKorcz,44787359+AdamKorcz@users.noreply.github.com
 neomutt,60977989+zakarouf@users.noreply.github.com,zakarouf,preferred,Zak D,60977989+zakarouf@users.noreply.github.com
+neomutt,65591041+darrel-glud@users.noreply.github.com,darrel-glud,preferred,Darrel Glud,65591041+darrel-glud@users.noreply.github.com
+neomutt,65591041+darrel-glud@users.noreply.github.com,darrel-glud,secondary,darrel-glud,65591041+darrel-glud@users.noreply.github.com
 neomutt,a3nm@a3nm.net,a3nm,preferred,Antoine Amarilli,a3nm@a3nm.net
 neomutt,ab@andreberger.eu,hvkls,preferred,André Berger,ab@andreberger.eu
 neomutt,ab@andreberger.eu,hvkls,secondary,ab,Andre Berger andre.berger@web.de
@@ -242,6 +244,7 @@ neomutt,phil@pennock-tech.com,philpennock,preferred,Phil Pennock,phil@pennock-te
 neomutt,pickfire@riseup.net,pickfire,preferred,Ivan Tham,pickfire@riseup.net
 neomutt,pm@pig-monkey.com,pigmonkey,preferred,Peter Hogg,pm@pig-monkey.com
 neomutt,pm@pig-monkey.com,pigmonkey,secondary,Pig Monkey,pm@pig-monkey.com
+neomutt,proycon@anaproy.nl,proycon,preferred,Maarten van Gompel,proycon@anaproy.nl
 neomutt,qsx@qsx.re,qsuscs,preferred,Thomas Schneider,qsx@qsx.re
 neomutt,r3lgar@openmailbox.org,r3lgar,preferred,r3lgar,r3lgar@openmailbox.org
 neomutt,r3lgar@openmailbox.org,r3lgar,secondary,r3lgar,r3lgar@users.noreply.github.com
