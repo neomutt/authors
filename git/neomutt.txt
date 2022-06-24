@@ -38,6 +38,7 @@ neomutt,austin.lund@gmail.com,aplund,preferred,Austin Lund,austin.lund@gmail.com
 neomutt,bbenne10@gmail.com,bbenne10,preferred,Bryan Bennett,bbenne10@gmail.com
 neomutt,becue@crans.org,p-eb,preferred,Pierre-Elliott Bécue,becue@crans.org
 neomutt,becue@crans.org,p-eb,secondary,Pierre-Elliott Bécue,P-EB@users.noreply.github.com
+neomutt,bholman.devel@gmail.com,holmanb,preferred,Brett Holman,bholman.devel@gmail.com
 neomutt,bjorn.ketelaars@hydroxide.nl,bket,preferred,Björn Ketelaars,bjorn.ketelaars@hydroxide.nl
 neomutt,brendan.mclean@gmail.com,bmclean2,preferred,Brendan McLean,brendan.mclean@gmail.com
 neomutt,brendan.mclean@gmail.com,bmclean2,secondary,bmclean2,brendan.mclean@posteo.net
@@ -236,6 +237,7 @@ neomutt,pablo1@mailbox.org,pinpox,preferred,Pablo Ovelleiro Corral,pablo1@mailbo
 neomutt,parazyd@dyne.org,parazyd,preferred,Ivan J,parazyd@dyne.org
 neomutt,parazyd@dyne.org,parazyd,preferred,parazyd,parazyd@dyne.org
 neomutt,parazyd@dyne.org,parazyd,secondary,Ivan J,parazyd@users.noreply.github.com
+neomutt,paul@spacefreak18.xyz,spacefreak18,preferred,Paul Dino Jones,paul@spacefreak18.xyz
 neomutt,pekdon@gmail.com,pekdon,preferred,Claes Nästén,pekdon@gmail.com
 neomutt,pete@muddygoat.org,petelewis,preferred,Peter Lewis,pete@muddygoat.org
 neomutt,peter@dpgao.cc,dpgao,preferred,Dapeng Gao,peter@dpgao.cc
