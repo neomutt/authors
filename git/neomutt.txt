@@ -24,6 +24,7 @@ neomutt,alex@alexpearce.me,alexpearce,preferred,Alex Pearce,alex@alexpearce.me
 neomutt,alvherre@alvh.no-ip.org,alvherre,preferred,Alvaro Herrera,alvherre@alvh.no-ip.org
 neomutt,anarcat@debian.org,anarcat,preferred,Antoine Beaupré,anarcat@debian.org
 neomutt,anarcat@debian.org,anarcat,secondary,anarcat,anarcat@users.noreply.github.com
+neomutt,andmizyk@gmail.com,andmizyk,preferred,Andrij Mizyk,andmizyk@gmail.com
 neomutt,andreas@rammhold.de,andir,preferred,Andreas Rammhold,andreas@rammhold.de
 neomutt,andres@anarazel.de,anarazel,preferred,Andres Freund,andres@anarazel.de
 neomutt,antonio@dyne.org,aradici,preferred,Antonio Radici,antonio@dyne.org
