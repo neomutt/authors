@@ -1,4 +1,4 @@
-## NeoMutt Contributors - auto-generated: https://github.com/neomutt/management/tree/main/git
+## NeoMutt Contributors - auto-generated: https://github.com/neomutt/authors/tree/main/git
 0mp	<mpp302@gmail.com>	Mateusz Piotrowski <mpp302@gmail.com>
 0-wiz-0	<wiz@netbsd.org>	Thomas Klausner <wiz@netbsd.org>
 0x747972	<0x747972@gmail.com>	ryt <0x747972@gmail.com>
@@ -28,8 +28,6 @@ archenemies	<frederik@ofb.net>	Frederick Eaton <frederik@ofb.net>
 artagnon	<r@artagnon.com>	Ramkumar Ramachandra <r@artagnon.com>
 austin-ray	<austin@austinray.io>	Austin Ray <austin@austinray.io>
 austin-ray	<austin@austinray.io>	Austin Ray <austin.duke.ray@gmail.com>
-bazzinotti	<mbazzinotti@gmail.com>	Michael Bazzinotti <mbazzinotti@gmail.com>
-bazzinotti	<mbazzinotti@gmail.com>	Michael J. Bazzinotti <mbazzinotti@gmail.com>
 bbenne10	<bbenne10@gmail.com>	Bryan Bennett <bbenne10@gmail.com>
 bertramscharpf	<software@bertram-scharpf.de>	Bertram Scharpf <software@bertram-scharpf.de>
 bitigchi	<emir_sari@icloud.com>	Emir Sari <emir_sari@icloud.com>
@@ -44,7 +42,6 @@ caspervector	<CasperVector@gmail.com>	Casper Ti. Vector <CasperVector@gmail.com>
 cbrownstein	<cbrownstein@liquidityllc.com>	Cody Brownstein <cbrownstein@liquidityllc.com>
 cdrage	<charlie@charliedrage.com>	Charlie Drage <charlie@charliedrage.com>
 cdroege	<mail@cdroege.de>	Christian Dröge <mail@cdroege.de>
-charles2910	<charlesmelara@outlook.com>	Carlos Henrique Lima Melara <charlesmelara@outlook.com>
 charles2910	<charlesmelara@outlook.com>	Carlos Henrique Lima Melara <charlesmelara@outlook.com>
 christopher-john-czettel	<chris@christopher-czettel.net>	Chris Czettel <chris@christopher-czettel.net>
 christopher-john-czettel	<chris@christopher-czettel.net>	chrissl <chris@christopher-czettel.net>
@@ -207,14 +204,23 @@ nobrowser	<itz@no-use.mooo.com>	Ian Zimmerman <itz@primate.net>
 nobrowser	<itz@no-use.mooo.com>	Ian Zimmerman <itz@very.loosely.org>
 nobrowser	<itz@no-use.mooo.com>	Ian Zimmerman <nobrowser@users.noreply.github.com>
 NONE	<18015852+libBletchley@users.noreply.github.com>	Bletchley Park <18015852+libBletchley@users.noreply.github.com>
+NONE	<donohoe.shane@gmail.com>	Shane Donohoe <donohoe.shane@gmail.com>
+NONE	<donohoe.shane@gmail.com>	sharktamer <sharktamer@users.noreply.github.com>
 NONE	<ivan@siamics.net>	Ivan Shmakov <ivan@siamics.net>
+NONE	<johannes@frankenau.net>	Johannes Frankenau <johannes@frankenau.net>
+NONE	<mbazzinotti@gmail.com>	Michael Bazzinotti <mbazzinotti@gmail.com>
+NONE	<mbazzinotti@gmail.com>	Michael J. Bazzinotti <mbazzinotti@gmail.com>
 NONE	<mutt@cert.siemens.de>	Udo Schweigert <mutt@cert.siemens.de>
+NONE	<ng0@n0.is>	ng0 <ng0@infotropique.org>
+NONE	<ng0@n0.is>	ng0 <ng0@n0.is>
 NONE	<regid23@nt1.in>	Regid Ichira <regid23@nt1.in>
+NONE	<reisradomil@fake-box.com>	Reis Radomil <reisradomil@fake-box.com>
 NONE	<rtlanceroad@gmail.com>	rtlanceroad <rtlanceroad@gmail.com>
 NONE	<rtlanceroad@gmail.com>	Shi Lee <rtlanceroad@gmail.com>
 NONE	<rubenllorente@startmail.com>	Rubén Llorente <rubenllorente@startmail.com>
 NONE	<sgilles@math.umd.edu>	S. Gilles <sgilles@math.umd.edu>
 NONE	<sgilles@math.umd.edu>	Stephen Gilles <sgilles@math.umd.edu>
+NONE	<timmyxiao1@gmail.com>	Timmy Xiao <timmyxiao1@gmail.com>
 nuclearsandwich	<steven@nuclearsandwich.com>	Steven Ragnarök <steven@nuclearsandwich.com>
 nuclearsandwich	<steven@nuclearsandwich.com>	Steven! Ragnarök <steven@nuclearsandwich.com>
 ocelotsloth	<mark@stengle.in>	Mark Stenglein <mark@stengle.in>
@@ -246,7 +252,6 @@ raforg	<raf@raf.org>	raf <raf@raf.org>
 rawtaz	<leo@finalresort.org>	Leo Lundgren <leo@finalresort.org>
 rawtaz	<leo@finalresort.org>	Leo R. Lundgren <leo@finalresort.org>
 rawtaz	<leo@finalresort.org>	rawtaz <rawtaz@users.noreply.github.com>
-reisradomil	<reisradomil@fake-box.com>	Reis Radomil <reisradomil@fake-box.com>
 richih	<RichiH@users.noreply.github.com>	Richard Hartmann <RichiH@users.noreply.github.com>
 riesebie	<riesebie@lxtec.de>	Elimar Riesebieter <riesebie@lxtec.de>
 rionda	<rionda@acm.org>	Matteo Riondato <rionda@acm.org>
@@ -263,8 +268,6 @@ sassmann	<sassmann@kpanic.de>	Stefan Assmann <sassmann@redhat.com>
 scottkosty	<scott.kostyshak@gmail.com>	Scott Kostyshak <scott.kostyshak@gmail.com>
 seojangho	<jangho@jangho.io>	Jangho Seo <jangho@jangho.io>
 sgeb	<serge.gebhardt@gmail.com>	Serge Gebhardt <serge.gebhardt@gmail.com>
-shanedabes	<donohoe.shane@gmail.com>	Shane Donohoe <donohoe.shane@gmail.com>
-shanedabes	<donohoe.shane@gmail.com>	sharktamer <sharktamer@users.noreply.github.com>
 sheoak	<sheoak@users.noreply.github.com>	Sheoak <sheoak@users.noreply.github.com>
 shioyama	<chris@dejimata.com>	Chris Salzberg <chris@dejimata.com>
 shioyama	<chris@dejimata.com>	Chris Salzberg <csalzberg@degica.com>
@@ -291,8 +294,6 @@ tecepe	<tecepe@tecepe.eng.br>	tecepe <tecepe@users.noreply.github.com>
 tecepe	<tecepe@tecepe.eng.br>	Thiago Costa de Paiva <tcpaiva@cern.ch>
 tecepe	<tecepe@tecepe.eng.br>	Thiago Costa de Paiva <tcpaiva@users.noreply.github.com>
 tecepe	<tecepe@tecepe.eng.br>	Thiago Costa de Paiva <tecepe@tecepe.eng.br>
-teknokatze	<ng0@n0.is>	ng0 <ng0@infotropique.org>
-teknokatze	<ng0@n0.is>	ng0 <ng0@n0.is>
 telshock	<telshock@users.noreply.github.com>	telshock <telshock@users.noreply.github.com>
 theojepsen	<theojepsen@gmail.com>	Theo Jepsen <theojepsen@gmail.com>
 theojepsen	<theojepsen@gmail.com>	Theo <theojepsen@g-m-a-i-l-dotcom>
@@ -302,7 +303,6 @@ timb87	<tbier@posteo.de>	Tim Biermann <tbier@posteo.de>
 toogley	<toogley@mailbox.org>	Tobias Angele <toogley@mailbox.org>
 toogley	<toogley@mailbox.org>	toogley <9417950+toogley@users.noreply.github.com>
 toogley	<toogley@mailbox.org>	toogley <toogley@mailbox.org>
-tsuflux	<johannes@frankenau.net>	Johannes Frankenau <johannes@frankenau.net>
 vcheburkin	<victor.cheburkin@gmail.com>	Viktor Cheburkin <victor.cheburkin@gmail.com>
 vpub	<valsy@mail.ru>	Valeri Sergeev <valsy@mail.ru>
 vpub	<valsy@mail.ru>	Valeri Y.Sergeev <valsy@mail.ru>
@@ -320,7 +320,6 @@ wpettersson	<william.pettersson@gmail.com>	William Pettersson <william.pettersso
 wzy	<wuzy01@qq.com>	Freed-Wu <wuzy01@qq.com>
 wzy	<wuzy01@qq.com>	wzy <32936898+Freed-Wu@users.noreply.github.com>
 x3nb63	<25959223+x3nb63@users.noreply.github.com>	x3nb63 <25959223+x3nb63@users.noreply.github.com>
-yimmt	<timmyxiao1@gmail.com>	Timmy Xiao <timmyxiao1@gmail.com>
 yousefakbar	<yousef@yhakbar.com>	Yousef Akbar <yousef@yhakbar.com>
 yuzibo	<tsu.yubo@gmail.com>	Bo <tsu.yubo@gmail.com>
 yuzibo	<tsu.yubo@gmail.com>	Bo Yu <tsu.yubo@gmail.com>
@@ -329,7 +328,7 @@ z2v	<zakharov.vv@gmail.com>	Vladimir Zakharov <zakharov.vv@gmail.com>
 zacchiro	<zack@upsilon.cc>	Stefano Zacchiroli <zack@upsilon.cc>
 zakarouf	<60977989+zakarouf@users.noreply.github.com>	Zak D <60977989+zakarouf@users.noreply.github.com>
 zsugabubus	<zsugabubus@users.noreply.github.com>	zsugabubus <zsugabubus@users.noreply.github.com>
-## Mutt Contributors - auto-generated: https://github.com/neomutt/management/tree/main/git
+## Mutt Contributors - auto-generated: https://github.com/neomutt/authors/tree/main/git
 UPSTREAM 	<dev@mutt.org>	Aaron Lehmann <aaronl@vitelus.com>
 UPSTREAM 	<dev@mutt.org>	Aaron Schrab <aaron+mutt@schrab.com>
 UPSTREAM 	<dev@mutt.org>	Aaron Schrab <aaron@schrab.com>

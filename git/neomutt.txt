@@ -48,7 +48,6 @@ neomutt,CasperVector@gmail.com,caspervector,secondary,Casper Ti. Vector,CasperVe
 neomutt,cb@df7cb.de,df7cb,preferred,Christoph Berg,cb@df7cb.de
 neomutt,cbrownstein@liquidityllc.com,cbrownstein,preferred,Cody Brownstein,cbrownstein@liquidityllc.com
 neomutt,charlesmelara@outlook.com,charles2910,preferred,Carlos Henrique Lima Melara,charlesmelara@outlook.com
-neomutt,charlesmelara@outlook.com,charles2910,preferred,Carlos Henrique Lima Melara,charlesmelara@outlook.com
 neomutt,charlie@charliedrage.com,cdrage,preferred,Charlie Drage,charlie@charliedrage.com
 neomutt,chris@christopher-czettel.net,christopher-john-czettel,preferred,Chris Czettel,chris@christopher-czettel.net
 neomutt,chris@christopher-czettel.net,christopher-john-czettel,secondary,chrissl,chris@christopher-czettel.net
@@ -77,8 +76,8 @@ neomutt,dev@somini.xyz,somini,secondary,somini,somini@users.noreply.github.com
 neomutt,dharrigan@gmail.com,dharrigan,preferred,David Harrigan,dharrigan@gmail.com
 neomutt,diabonas@gmx.de,diabonas,preferred,Jonas Witschel,diabonas@gmx.de
 neomutt,dng@disroot.org,dngray,preferred,Daniel Gray,dng@disroot.org
-neomutt,donohoe.shane@gmail.com,shanedabes,preferred,Shane Donohoe,donohoe.shane@gmail.com
-neomutt,donohoe.shane@gmail.com,shanedabes,secondary,sharktamer,sharktamer@users.noreply.github.com
+neomutt,donohoe.shane@gmail.com,NONE,preferred,Shane Donohoe,donohoe.shane@gmail.com
+neomutt,donohoe.shane@gmail.com,NONE,secondary,sharktamer,sharktamer@users.noreply.github.com
 neomutt,doron.behar@gmail.com,doronbehar,preferred,Doron Behar,doron.behar@gmail.com
 neomutt,doug@stone-weaver.com,doweaver,preferred,Doug Stone-Weaver,doug@stone-weaver.com
 neomutt,dracogoyle@gmail.com,jakkinstewart,preferred,Joshua Jordi,dracogoyle@gmail.com
@@ -154,7 +153,7 @@ neomutt,jeriko.one@gmx.us,jeriko-one,preferred,JerikoOne,jeriko.one@gmx.us
 neomutt,jlmuir@imca-cat.org,jlmuir,preferred,J Lewis Muir,jlmuir@imca-cat.org
 neomutt,jlmuir@imca-cat.org,jlmuir,secondary,J. Lewis Muir,jlmuir@imca-cat.org
 neomutt,joeypabalinas@gmail.com,alyptik,preferred,Joey Pabalinas,joeypabalinas@gmail.com
-neomutt,johannes@frankenau.net,tsuflux,preferred,Johannes Frankenau,johannes@frankenau.net
+neomutt,johannes@frankenau.net,NONE,preferred,Johannes Frankenau,johannes@frankenau.net
 neomutt,john@charpa.org,john-at-charpa,preferred,John Wood,john@charpa.org
 neomutt,joseph.bisch@gmail.com,josephbisch,preferred,Joseph Bisch,joseph.bisch@gmail.com
 neomutt,jperkin@netbsd.org,jperkin,preferred,Jonathan Perkin,jperkin@netbsd.org
@@ -193,8 +192,8 @@ neomutt,marco@sirabella.org,mjsir911,preferred,Marco Sirabella,marco@sirabella.o
 neomutt,marius@gedmin.as,mgedmin,preferred,Marius Gedminas,marius@gedmin.as
 neomutt,mark@stengle.in,ocelotsloth,preferred,Mark Stenglein,mark@stengle.in
 neomutt,matthewhughes934@gmail.com,matthewhughes934,preferred,Matthew Hughes,matthewhughes934@gmail.com
-neomutt,mbazzinotti@gmail.com,bazzinotti,preferred,Michael Bazzinotti,mbazzinotti@gmail.com
-neomutt,mbazzinotti@gmail.com,bazzinotti,secondary,Michael J. Bazzinotti,mbazzinotti@gmail.com
+neomutt,mbazzinotti@gmail.com,NONE,preferred,Michael Bazzinotti,mbazzinotti@gmail.com
+neomutt,mbazzinotti@gmail.com,NONE,secondary,Michael J. Bazzinotti,mbazzinotti@gmail.com
 neomutt,mh.codebro@gmail.com,mhinz,preferred,Marco Hinz,mh.codebro@gmail.com
 neomutt,michal@siedlaczek.me,elshize,preferred,Michal Siedlaczek,michal@siedlaczek.me
 neomutt,mk@mcdim.xyz,michaeldim02,preferred,Michael Constantine Dimopoulos,mk@mcdim.xyz
@@ -217,8 +216,8 @@ neomutt,naveen@lastninja.net,nnathan,preferred,Naveen Nathan,naveen@lastninja.ne
 neomutt,neverpanic@gmail.com,neverpanic,preferred,Clemens Lang,neverpanic@gmail.com
 neomutt,ngw@nofeed.org,ngw,preferred,Nicholas Wieland,ngw@nofeed.org
 neomutt,nicolasbock@gmail.com,nicolasbock,preferred,Nicolas Bock,nicolasbock@gmail.com
-neomutt,nikita@n0.is,teknokatze,preferred,ng0,ng0@n0.is
-neomutt,nikita@n0.is,teknokatze,secondary,ng0,ng0@infotropique.org
+neomutt,nikita@n0.is,NONE,preferred,ng0,ng0@n0.is
+neomutt,nikita@n0.is,NONE,secondary,ng0,ng0@infotropique.org
 neomutt,NONE,4nd3r,preferred,Ander Punnar,NONE
 neomutt,NONE,alok,preferred,Alok Singh,NONE
 neomutt,NONE,bapt,preferred,Baptiste Daroussin,NONE
@@ -256,7 +255,7 @@ neomutt,raf@raf.org,raforg,preferred,raf,raf@raf.org
 neomutt,rahul@gopinath.org,vrthra,preferred,Rahul Gopinath,rahul@gopinath.org
 neomutt,rak@rak.ac,ryanakca,preferred,Ryan Kavanagh,rak@rak.ac
 neomutt,regid23@nt1.in,NONE,preferred,Regid Ichira,regid23@nt1.in
-neomutt,reisradomil@fake-box.com,reisradomil,preferred,Reis Radomil,reisradomil@fake-box.com
+neomutt,reisradomil@fake-box.com,NONE,preferred,Reis Radomil,reisradomil@fake-box.com
 neomutt,reto@labrat.space,brunnre8,preferred,Reto Brunner,reto@labrat.space
 neomutt,reto@labrat.space,brunnre8,secondary,Reto,reto@labrat.space
 neomutt,rich@flatcap.org,flatcap,preferred,Richard Russon,rich@flatcap.org
@@ -314,7 +313,7 @@ neomutt,theojepsen@gmail.com,theojepsen,secondary,Theo,theojepsen@g-m-a-i-l-dotc
 neomutt,thomas.jarosch@intra2net.com,thomasjfox,preferred,Thomas Jarosch,thomas.jarosch@intra2net.com
 neomutt,thomas.sanchz@gmail.com,daedric,preferred,Thomas Sanchez,thomas.sanchz@gmail.com
 neomutt,thomas@xteddy.org,thomasadam,preferred,Thomas Adam,thomas@xteddy.org
-neomutt,timmyxiao1@gmail.com,yimmt,preferred,Timmy Xiao,timmyxiao1@gmail.com
+neomutt,timmyxiao1@gmail.com,NONE,preferred,Timmy Xiao,timmyxiao1@gmail.com
 neomutt,tobias@stoeckmann.org,stoeckmann,preferred,Tobias Stoeckmann,tobias@stoeckmann.org
 neomutt,toogley@mailbox.org,toogley,preferred,Tobias Angele,toogley@mailbox.org
 neomutt,toogley@mailbox.org,toogley,secondary,toogley,9417950+toogley@users.noreply.github.com
