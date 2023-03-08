@@ -190,7 +190,8 @@ mutt,neilb@cse.unsw.edu.au,,preferred,Neil Brown,neilb@cse.unsw.edu.au
 mutt,neleai@seznam.cz,,preferred,Ondřej Bílka,neleai@seznam.cz
 mutt,nhd+mutt@andrew.cmu.edu,,preferred,Nathan Dushman,nhd+mutt@andrew.cmu.edu
 mutt,nihilhill@gmail.com,,preferred,Unknown,nihilhill@gmail.com
-mutt,njm@njm.f2s.com,,preferred,N.J. Mann,njm@njm.f2s.com
+mutt,njm@njm.f2s.com,,preferred,N J  Mann,njm@njm.f2s.com
+mutt,njm@njm.f2s.com,,secondary,N.J. Mann,njm@njm.f2s.com
 mutt,nonakap@gmail.com,,preferred,Kimihiro Nonaka,nonakap@gmail.com
 mutt,nonakap@gmail.com,,secondary,NONAKA Kimihiro,nonakap@gmail.com
 mutt,notting@redhat.com,,preferred,Bill Nottingham,notting@redhat.com
@@ -290,7 +291,8 @@ mutt,unknown,,preferred,Andreas Jobs,unknown
 mutt,unknown,,preferred,convert-repo,unknown
 mutt,unknown,,preferred,Julien Cristau,unknown
 mutt,unknown,,preferred,Masayuki Moriyama,unknown
-mutt,unknown,,preferred,Sertaç Ö. Yıldız,unknown
+mutt,unknown,,preferred,Sertaç Ö Yıldız,unknown
+mutt,unknown,,secondary,Sertaç Ö. Yıldız,unknown
 mutt,urs@tin.org,,preferred,Urs Janßen,urs@tin.org
 mutt,vapier@gentoo.org,,preferred,Mike Frysinger,vapier@gentoo.org
 mutt,veronatif@free.fr,,preferred,Alain Bench,veronatif@free.fr
