@@ -228,6 +228,7 @@ neomutt,nabijaczleweli@nabijaczleweli.xyz,nabijaczleweli,preferred,наб,nabija
 neomutt,nabijaczleweli@nabijaczleweli.xyz,nabijaczleweli,secondary,наб,nabijaczleweli@gmail.com
 neomutt,nagefire.dev@gmail.com,nagefire,preferred,Nagefire,nagefire.dev@gmail.com
 neomutt,naveen@lastninja.net,nnathan,preferred,Naveen Nathan,naveen@lastninja.net
+neomutt,navi@vlhl.dev,navi-desu,preferred,Anna (navi) Figueiredo Gomes,navi@vlhl.dev
 neomutt,neverpanic@gmail.com,neverpanic,preferred,Clemens Lang,neverpanic@gmail.com
 neomutt,ngw@nofeed.org,ngw,preferred,Nicholas Wieland,ngw@nofeed.org
 neomutt,nicolasbock@gmail.com,nicolasbock,preferred,Nicolas Bock,nicolasbock@gmail.com
@@ -272,7 +273,8 @@ neomutt,rahul@gopinath.org,vrthra,preferred,Rahul Gopinath,rahul@gopinath.org
 neomutt,rak@rak.ac,ryanakca,preferred,Ryan Kavanagh,rak@rak.ac
 neomutt,regid23@nt1.in,NONE,preferred,Regid Ichira,regid23@nt1.in
 neomutt,reisradomil@fake-box.com,NONE,preferred,Reis Radomil,reisradomil@fake-box.com
-neomutt,reto@labrat.space,brunnre8,preferred,Reto Brunner,reto@labrat.space
+neomutt,reto@slightlybroken.com,brunnre8,preferred,Reto Brunner,reto@slightlybroken.com
+neomutt,reto@labrat.space,brunnre8,secondary,Reto Brunner,reto@labrat.space
 neomutt,reto@labrat.space,brunnre8,secondary,Reto,reto@labrat.space
 neomutt,rich@flatcap.org,flatcap,preferred,Richard Russon,rich@flatcap.org
 neomutt,rich@flatcap.org,flatcap,secondary,Richard Russon (DEPLOY),rich@flatcap.org
