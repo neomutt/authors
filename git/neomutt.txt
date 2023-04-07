@@ -302,6 +302,9 @@ neomutt,scott.kostyshak@gmail.com,scottkosty,preferred,Scott Kostyshak,scott.kos
 neomutt,seishinryohosha@jikken.de,inrin,preferred,Anton Rieger,seishinryohosha@jikken.de
 neomutt,seishinryohosha@jikken.de,inrin,secondary,seishinryohosha,seishinryohosha@users.noreply.github.com
 neomutt,serge.gebhardt@gmail.com,sgeb,preferred,Serge Gebhardt,serge.gebhardt@gmail.com
+neomutt,steinar+neomutt@gunderson.no,sesse,preferred,Steinar H Gunderson,steinar+neomutt@gunderson.no
+neomutt,steinar+neomutt@gunderson.no,sesse,secondary,Steinar H. Gunderson,steinar+neomutt@gunderson.no
+neomutt,steinar+neomutt@gunderson.no,sesse,secondary,Steinar H. Gunderson,sgunderson@bigfoot.com
 neomutt,sgilles@math.umd.edu,NONE,preferred,Stephen Gilles,sgilles@math.umd.edu
 neomutt,sgilles@math.umd.edu,NONE,secondary,S. Gilles,sgilles@math.umd.edu
 neomutt,sheoak@users.noreply.github.com,sheoak,preferred,Sheoak,sheoak@users.noreply.github.com
@@ -352,6 +355,7 @@ neomutt,valsy@mail.ru,vpub,preferred,Valeri Sergeev,valsy@mail.ru
 neomutt,valsy@mail.ru,vpub,secondary,Valeri Y.Sergeev,valsy@mail.ru
 neomutt,victor.cheburkin@gmail.com,vcheburkin,preferred,Viktor Cheburkin,victor.cheburkin@gmail.com
 neomutt,vishnya@ispras.ru,sweetvishnya,preferred,Alexey Vishnyakov,vishnya@ispras.ru
+neomutt,vuori@notcom.org,vuori,preferred,vuori,vuori@notcom.org
 neomutt,werner@suse.de,bitstreamout,preferred,Werner Fink,werner@suse.de
 neomutt,will@robotican.org,wcurry,preferred,Will Curry,will@robotican.org
 neomutt,william.pettersson@gmail.com,wpettersson,preferred,William Pettersson,william.pettersson@gmail.com
