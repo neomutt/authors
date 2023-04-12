@@ -299,6 +299,7 @@ neomutt,sassmann@kpanic.de,sassmann,preferred,Stefan Assmann,sassmann@kpanic.de
 neomutt,sassmann@kpanic.de,sassmann,secondary,sassmann,sassmann@users.noreply.github.com
 neomutt,sassmann@kpanic.de,sassmann,secondary,Stefan Assmann,sassmann@redhat.com
 neomutt,scott.kostyshak@gmail.com,scottkosty,preferred,Scott Kostyshak,scott.kostyshak@gmail.com
+neomutt,seabass-labrax@gmx.com,seabass-labrax,preferred,Sebastian Crane,seabass-labrax@gmx.com
 neomutt,seishinryohosha@jikken.de,inrin,preferred,Anton Rieger,seishinryohosha@jikken.de
 neomutt,seishinryohosha@jikken.de,inrin,secondary,seishinryohosha,seishinryohosha@users.noreply.github.com
 neomutt,serge.gebhardt@gmail.com,sgeb,preferred,Serge Gebhardt,serge.gebhardt@gmail.com
