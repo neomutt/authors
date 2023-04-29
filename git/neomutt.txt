@@ -36,6 +36,8 @@ neomutt,anarcat@debian.org,anarcat,preferred,Antoine Beaupré,anarcat@debian.org
 neomutt,anarcat@debian.org,anarcat,secondary,anarcat,anarcat@users.noreply.github.com
 neomutt,andmizyk@gmail.com,andmzk,preferred,Andrij Mizyk,andmizyk@gmail.com
 neomutt,andreas@rammhold.de,andir,preferred,Andreas Rammhold,andreas@rammhold.de
+neomutt,andrelcmoreira@disroot.org,carvalhudo,preferred,André L C Moreira,andrelcmoreira@disroot.org
+neomutt,andrelcmoreira@disroot.org,carvalhudo,secondary,André L. C. Moreira,andrelcmoreira@disroot.org
 neomutt,andres@anarazel.de,anarazel,preferred,Andres Freund,andres@anarazel.de
 neomutt,antonio@dyne.org,aradici,preferred,Antonio Radici,antonio@dyne.org
 neomutt,antonio@dyne.org,aradici,secondary,Unknown,antonio@dyne.org
@@ -43,6 +45,7 @@ neomutt,artafinde@gmail.com,inglor,preferred,Leonidas Spyropoulos,artafinde@gmai
 neomutt,as@as-home.fr,igit,preferred,Alexandre Simon,as@as-home.fr
 neomutt,as@as-home.fr,igit,secondary,Alexandre SIMON,as@as-home.fr
 neomutt,ashish.panigrahi@protonmail.com,paniash,preferred,Ashish Panigrahi,ashish.panigrahi@protonmail.com
+neomutt,au@qzx.com,auouymous,preferred,auouymous,au@qzx.com
 neomutt,austin.lund@gmail.com,aplund,preferred,Austin Lund,austin.lund@gmail.com
 neomutt,austin@austinray.io,austin-ray,preferred,Austin Ray,austin@austinray.io
 neomutt,austin@austinray.io,austin-ray,secondary,Austin Ray,austin.duke.ray@gmail.com
@@ -274,9 +277,9 @@ neomutt,rahul@gopinath.org,vrthra,preferred,Rahul Gopinath,rahul@gopinath.org
 neomutt,rak@rak.ac,ryanakca,preferred,Ryan Kavanagh,rak@rak.ac
 neomutt,regid23@nt1.in,NONE,preferred,Regid Ichira,regid23@nt1.in
 neomutt,reisradomil@fake-box.com,NONE,preferred,Reis Radomil,reisradomil@fake-box.com
-neomutt,reto@slightlybroken.com,brunnre8,preferred,Reto Brunner,reto@slightlybroken.com
 neomutt,reto@labrat.space,brunnre8,secondary,Reto Brunner,reto@labrat.space
 neomutt,reto@labrat.space,brunnre8,secondary,Reto,reto@labrat.space
+neomutt,reto@slightlybroken.com,brunnre8,preferred,Reto Brunner,reto@slightlybroken.com
 neomutt,rich@flatcap.org,flatcap,preferred,Richard Russon,rich@flatcap.org
 neomutt,rich@flatcap.org,flatcap,secondary,LGTM Migrator,lgtm-migrator@users.noreply.github.com
 neomutt,rich@flatcap.org,flatcap,secondary,Richard Russon (DEPLOY),rich@flatcap.org
@@ -303,9 +306,6 @@ neomutt,seabass-labrax@gmx.com,seabass-labrax,preferred,Sebastian Crane,seabass-
 neomutt,seishinryohosha@jikken.de,inrin,preferred,Anton Rieger,seishinryohosha@jikken.de
 neomutt,seishinryohosha@jikken.de,inrin,secondary,seishinryohosha,seishinryohosha@users.noreply.github.com
 neomutt,serge.gebhardt@gmail.com,sgeb,preferred,Serge Gebhardt,serge.gebhardt@gmail.com
-neomutt,steinar+neomutt@gunderson.no,sesse,preferred,Steinar H Gunderson,steinar+neomutt@gunderson.no
-neomutt,steinar+neomutt@gunderson.no,sesse,secondary,Steinar H. Gunderson,steinar+neomutt@gunderson.no
-neomutt,steinar+neomutt@gunderson.no,sesse,secondary,Steinar H. Gunderson,sgunderson@bigfoot.com
 neomutt,sgilles@math.umd.edu,NONE,preferred,Stephen Gilles,sgilles@math.umd.edu
 neomutt,sgilles@math.umd.edu,NONE,secondary,S. Gilles,sgilles@math.umd.edu
 neomutt,sheoak@users.noreply.github.com,sheoak,preferred,Sheoak,sheoak@users.noreply.github.com
@@ -319,6 +319,9 @@ neomutt,stbuehler@web.de,stbuehler,preferred,Stefan Bühler,stbuehler@web.de
 neomutt,stefan@debxwoody.de,debxwoody,preferred,Stefan Kropp,stefan@debxwoody.de
 neomutt,stefan@debxwoody.de,debxwoody,secondary,DebXWoody,stefan@debxwoody.de
 neomutt,stefan@debxwoody.de,debxwoody,secondary,Stefan,32964719+DebXWoody@users.noreply.github.com
+neomutt,steinar+neomutt@gunderson.no,sesse,preferred,Steinar H Gunderson,steinar+neomutt@gunderson.no
+neomutt,steinar+neomutt@gunderson.no,sesse,secondary,Steinar H. Gunderson,sgunderson@bigfoot.com
+neomutt,steinar+neomutt@gunderson.no,sesse,secondary,Steinar H. Gunderson,steinar+neomutt@gunderson.no
 neomutt,steven@nuclearsandwich.com,nuclearsandwich,preferred,Steven Ragnarök,steven@nuclearsandwich.com
 neomutt,steven@nuclearsandwich.com,nuclearsandwich,secondary,Steven! Ragnarök,steven@nuclearsandwich.com
 neomutt,stig@stig.io,stigtsp,preferred,Stig Palmquist,stig@stig.io
@@ -346,6 +349,7 @@ neomutt,tobias@stoeckmann.org,stoeckmann,preferred,Tobias Stoeckmann,tobias@stoe
 neomutt,toogley@mailbox.org,toogley,preferred,Tobias Angele,toogley@mailbox.org
 neomutt,toogley@mailbox.org,toogley,secondary,toogley,9417950+toogley@users.noreply.github.com
 neomutt,toogley@mailbox.org,toogley,secondary,toogley,toogley@mailbox.org
+neomutt,toonn@toonn.io,toonn,preferred,toonn,toonn@toonn.io
 neomutt,torresariass@gmail.com,santiagotorres,preferred,Santiago Torres,torresariass@gmail.com
 neomutt,tsu.yubo@gmail.com,yuzibo,preferred,Bo Yu,tsu.yubo@gmail.com
 neomutt,tsu.yubo@gmail.com,yuzibo,secondary,Bo YU,yuzibode@126.com
