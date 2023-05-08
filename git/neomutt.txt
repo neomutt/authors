@@ -56,6 +56,7 @@ neomutt,bholman.devel@gmail.com,holmanb,preferred,Brett Holman,bholman.devel@gma
 neomutt,bjorn.ketelaars@hydroxide.nl,bket,preferred,Björn Ketelaars,bjorn.ketelaars@hydroxide.nl
 neomutt,brendan.mclean@gmail.com,bmclean2,preferred,Brendan McLean,brendan.mclean@gmail.com
 neomutt,brendan.mclean@gmail.com,bmclean2,secondary,bmclean2,brendan.mclean@posteo.net
+neomutt,bvh@scriptor.pro,scriptor-pro,preferred,Baudouin Van Humbeck,bvh@scriptor.pro
 neomutt,CasperVector@gmail.com,caspervector,preferred,Casper Ti Vector,CasperVector@gmail.com
 neomutt,CasperVector@gmail.com,caspervector,secondary,Casper Ti. Vector,CasperVector@gmail.com
 neomutt,cb@df7cb.de,df7cb,preferred,Christoph Berg,cb@df7cb.de
