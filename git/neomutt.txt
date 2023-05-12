@@ -218,6 +218,7 @@ neomutt,mh.codebro@gmail.com,mhinz,preferred,Marco Hinz,mh.codebro@gmail.com
 neomutt,michal@siedlaczek.me,elshize,preferred,Michal Siedlaczek,michal@siedlaczek.me
 neomutt,mk@mcdim.xyz,michaeldim02,preferred,Michael Constantine Dimopoulos,mk@mcdim.xyz
 neomutt,mk@mcdim.xyz,michaeldim02,secondary,Michael Constantine Dimopoulos,31562759+MichaelDim02@users.noreply.github.com
+neomutt,mleitner@redhat.com,marceloleitner,preferred,Marcelo Ricardo Leitner,mleitner@redhat.com
 neomutt,mmokulus@gmail.com,mokulus,preferred,Mateusz Okulus,mmokulus@gmail.com
 neomutt,mochidai@gmail.com,mochidai,preferred,Dai Mochinaga,mochidai@gmail.com
 neomutt,mochidai@gmail.com,mochidai,secondary,mochidai,mochidai@gmail.com
