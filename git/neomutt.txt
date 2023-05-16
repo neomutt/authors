@@ -101,6 +101,7 @@ neomutt,dracogoyle@gmail.com,jakkinstewart,secondary,Jakkin,dracogoyle@gmail.com
 neomutt,dracogoyle@gmail.com,jakkinstewart,secondary,Joshua Jordi,JakkinStewart@users.noreply.github.com
 neomutt,dsterba@suse.cz,kdave,preferred,David Sterba,dsterba@suse.cz
 neomutt,dsterba@suse.cz,kdave,secondary,David Sterba,dsterba@suse.com
+neomutt,dxld@darkboxed.org,danielg,preferred,Daniel Gröber,dxld@darkboxed.org
 neomutt,e.sovetkin@gmail.com,esovetkin,preferred,Jenya Sovetkin,e.sovetkin@gmail.com
 neomutt,eblake@redhat.com,ebblake,preferred,Eric Blake,eblake@redhat.com
 neomutt,edward@4angle.com,edwardbetts,preferred,Edward Betts,edward@4angle.com
