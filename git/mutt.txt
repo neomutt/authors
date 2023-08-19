@@ -47,6 +47,7 @@ mutt,cminyard@mvista.com,,preferred,Corey Minyard,cminyard@mvista.com
 mutt,code@pizzashack.org,,preferred,Derek Martin,code@pizzashack.org
 mutt,code@pizzashack.org,,secondary,Derek Martin,invalid@pizzashack.org
 mutt,consus@gmx.com,,preferred,Consus,consus@gmx.com
+mutt,contact@aramhamo.me,,preferred,Aram Hamo,contact@aramhamo.me
 mutt,cypher@conuropsis.org,,preferred,Unknown,cypher@conuropsis.org
 mutt,dale-list-mutt-dev-2@woolridge.org,,preferred,Dale Woolridge,dale-list-mutt-dev-2@woolridge.org
 mutt,dale-list-mutt-dev-2@woolridge.org,,secondary,Dale Woolridge,dale-flea-mutt-bug@woolridge.org

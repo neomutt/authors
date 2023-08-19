@@ -125,6 +125,7 @@ neomutt,frank.gruellich@gmail.com,FrankGruellich,preferred,Frank Grüllich,frank
 neomutt,frederik@ofb.net,archenemies,preferred,Frederick Eaton,frederik@ofb.net
 neomutt,ftilde@tamepointer.de,ftilde,preferred,ftilde,ftilde@tamepointer.de
 neomutt,ftilde@tamepointer.de,ftilde,secondary,ftilde,ftilde@protonmail.com
+neomutt,gomba007@gmail.com,g0mb4,preferred,Tóth János,gomba007@gmail.com
 neomutt,gahr@gahr.ch,gahr,preferred,Pietro Cerutti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Ceruti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Cerutti (@gahr),gahr@gahr.ch
@@ -206,6 +207,7 @@ neomutt,lethaljellybean@gmail.com,psyomn,preferred,Simon Symeonidis,lethaljellyb
 neomutt,louis@openbooking.ch,louis77,preferred,Louis Brauer,louis@openbooking.ch
 neomutt,lucas.bourneuf@laposte.net,aluriak,preferred,Lucas Bourneuf,lucas.bourneuf@laposte.net
 neomutt,lucas.bourneuf@laposte.net,aluriak,secondary,Aluriak,lucas.bourneuf@laposte.net
+neomutt,lucilanga@7pot.org,lucilanga,preferred,Lucian Langa,lucilanga@7pot.org
 neomutt,ludwig@ma.tum.de,luchr,preferred,Christian Ludwig,ludwig@ma.tum.de
 neomutt,mail@cdroege.de,cdroege,preferred,Christian Dröge,mail@cdroege.de
 neomutt,mako@atdot.cc,makoshark,preferred,Benjamin Mako Hill,mako@atdot.cc
