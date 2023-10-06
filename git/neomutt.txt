@@ -125,7 +125,6 @@ neomutt,frank.gruellich@gmail.com,FrankGruellich,preferred,Frank Grüllich,frank
 neomutt,frederik@ofb.net,archenemies,preferred,Frederick Eaton,frederik@ofb.net
 neomutt,ftilde@tamepointer.de,ftilde,preferred,ftilde,ftilde@tamepointer.de
 neomutt,ftilde@tamepointer.de,ftilde,secondary,ftilde,ftilde@protonmail.com
-neomutt,gomba007@gmail.com,g0mb4,preferred,Tóth János,gomba007@gmail.com
 neomutt,gahr@gahr.ch,gahr,preferred,Pietro Cerutti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Ceruti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Cerutti (@gahr),gahr@gahr.ch
@@ -139,6 +138,7 @@ neomutt,git@diabonas.de,diabonas,preferred,Jonas Witschel,git@diabonas.de
 neomutt,git@diabonas.de,diabonas,secondary,Jonas Witschel,diabonas@gmx.de
 neomutt,github@mcmilk.de,mcmilk,preferred,Tino Reichardt,github@mcmilk.de
 neomutt,github@mcmilk.de,mcmilk,secondary,Tino Reichardt,milky-neomutt@mcmilk.de
+neomutt,gomba007@gmail.com,g0mb4,preferred,Tóth János,gomba007@gmail.com
 neomutt,grobian@gentoo.org,grobian,preferred,Fabian Groffen,grobian@gentoo.org
 neomutt,grobian@gentoo.org,grobian,secondary,Fabian Groffen,grobian@orakel.ods.org
 neomutt,gui-gui@netcourrier.com,guiniol,preferred,Guillaume Brogi,gui-gui@netcourrier.com
@@ -166,6 +166,7 @@ neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,jindraj@use
 neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,jakub.jindra@socialbakers.com
 neomutt,jakubk0.kaczor@gmail.com,jakubkaczor,preferred,Jakub Kaczor,jakubk0.kaczor@gmail.com
 neomutt,james@jamesbvaughan.com,jamesbvaughan,preferred,James Vaughan,james@jamesbvaughan.com
+neomutt,jan.krieg.github796@magnonic.net,jan-krieg,preferred,Jan Krieg,jan.krieg.github796@magnonic.net
 neomutt,jangho@jangho.io,seojangho,preferred,Jangho Seo,jangho@jangho.io
 neomutt,jargon@molb.org,weisslj,preferred,Johannes Weißl,jargon@molb.org
 neomutt,jasper@humppa.nl,jasperla,preferred,Jasper Adriaanse,jasper@humppa.nl
@@ -210,6 +211,7 @@ neomutt,lucas.bourneuf@laposte.net,aluriak,secondary,Aluriak,lucas.bourneuf@lapo
 neomutt,lucilanga@7pot.org,lucilanga,preferred,Lucian Langa,lucilanga@7pot.org
 neomutt,ludwig@ma.tum.de,luchr,preferred,Christian Ludwig,ludwig@ma.tum.de
 neomutt,mail@cdroege.de,cdroege,preferred,Christian Dröge,mail@cdroege.de
+neomutt,mail@dennis-schoen.de,roccoblues,preferred,Dennis Schön,mail@dennis-schoen.de
 neomutt,mako@atdot.cc,makoshark,preferred,Benjamin Mako Hill,mako@atdot.cc
 neomutt,manphiz@gmail.com,manphiz,preferred,Deng Xiyue,manphiz@gmail.com
 neomutt,marco@sirabella.org,mjsir911,preferred,Marco Sirabella,marco@sirabella.org
@@ -297,7 +299,6 @@ neomutt,rob@nyar.eu,r001,secondary,Robert Horvath,rob@nyar.eu
 neomutt,robdres123@gmail.com,robdres,preferred,Roberto Alvarado,robdres123@gmail.com
 neomutt,robdres123@gmail.com,robdres,secondary,Robdres,robdres123@gmail.com
 neomutt,robdres123@gmail.com,robdres,secondary,Roberto Andrés,robdres@MacBook-Pro-de-Roberto.local
-neomutt,mail@dennis-schoen.de,roccoblues,preferred,Dennis Schön,mail@dennis-schoen.de
 neomutt,roger.pau@citrix.com,royger,preferred,Roger Pau Monne,roger.pau@citrix.com
 neomutt,romeu.bizz@gmail.com,romeug,preferred,Romeu Vieira,romeu.bizz@gmail.com
 neomutt,ronisbr@gmail.com,ronisbr,preferred,Ronan Arraes Jardim Chagas,ronisbr@gmail.com
@@ -318,7 +319,8 @@ neomutt,sgilles@math.umd.edu,NONE,secondary,S. Gilles,sgilles@math.umd.edu
 neomutt,sheoak@users.noreply.github.com,sheoak,preferred,Sheoak,sheoak@users.noreply.github.com
 neomutt,sileht@sileht.net,sileht,preferred,Mehdi Abaakouk,sileht@sileht.net
 neomutt,sileht@sileht.net,sileht,secondary,Mehdi ABAAKOUK,sileht@sileht.net
-neomutt,simonreichel@giese-optik.de,amudtogal,preferred,Simon Reichel,simms1@web.de
+neomutt,simonreichel@giese-optik.de,amudtogal,preferred,Simon Reichel,simonreichel@giese-optik.de
+neomutt,simonreichel@giese-optik.de,amudtogal,secondary,Simon Reichel,simms1@web.de
 neomutt,software@bertram-scharpf.de,bertramscharpf,preferred,Bertram Scharpf,software@bertram-scharpf.de
 neomutt,speed47_github@speed47.net,speed47,preferred,Stéphane Lesimple,speed47_github@speed47.net
 neomutt,sstark@mailbox.org,sstark,preferred,Sebastian Stark,sstark@mailbox.org
