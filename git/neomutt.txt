@@ -32,6 +32,7 @@ neomutt,AladW@users.noreply.github.com,aladw,preferred,Alad Wenter,AladW@users.n
 neomutt,alex@alexpearce.me,alexpearce,preferred,Alex Pearce,alex@alexpearce.me
 neomutt,alkim@alkim.org,alkim0,preferred,Albert Kim,alkim@alkim.org
 neomutt,alvherre@alvh.no-ip.org,alvherre,preferred,Alvaro Herrera,alvherre@alvh.no-ip.org
+neomutt,alx@kernel.org,alejandro-colomar,preferred,Alejandro Colomar,alx@kernel.org
 neomutt,anarcat@debian.org,anarcat,preferred,Antoine Beaupré,anarcat@debian.org
 neomutt,anarcat@debian.org,anarcat,secondary,anarcat,anarcat@users.noreply.github.com
 neomutt,andmizyk@gmail.com,andmzk,preferred,Andrij Mizyk,andmizyk@gmail.com
