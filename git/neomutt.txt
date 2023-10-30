@@ -181,6 +181,7 @@ neomutt,joeypabalinas@gmail.com,alyptik,preferred,Joey Pabalinas,joeypabalinas@g
 neomutt,johannes@frankenau.net,NONE,preferred,Johannes Frankenau,johannes@frankenau.net
 neomutt,john@charpa.org,john-at-charpa,preferred,John Wood,john@charpa.org
 neomutt,joseph.bisch@gmail.com,josephbisch,preferred,Joseph Bisch,joseph.bisch@gmail.com
+neomutt,jpalus@fastmail.com,jpalus,preferred,Jan Palus,jpalus@fastmail.com
 neomutt,jperkin@netbsd.org,jperkin,preferred,Jonathan Perkin,jperkin@netbsd.org
 neomutt,jpoimboe@redhat.com,jpoimboe,preferred,Josh Poimboeuf,jpoimboe@redhat.com
 neomutt,justin.vasel@gmail.com,justinvasel,preferred,Justin Vasel,justin.vasel@gmail.com
