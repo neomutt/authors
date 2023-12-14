@@ -195,6 +195,7 @@ mutt,njm@njm.f2s.com,,preferred,N J  Mann,njm@njm.f2s.com
 mutt,njm@njm.f2s.com,,secondary,N.J. Mann,njm@njm.f2s.com
 mutt,nonakap@gmail.com,,preferred,Kimihiro Nonaka,nonakap@gmail.com
 mutt,nonakap@gmail.com,,secondary,NONAKA Kimihiro,nonakap@gmail.com
+mutt,normw013@fastmail.fm,,preferred,Norman Wood,normw013@fastmail.fm
 mutt,notting@redhat.com,,preferred,Bill Nottingham,notting@redhat.com
 mutt,nr@rachinsky.de,,preferred,Nicolas Rachinsky,nr@rachinsky.de
 mutt,nr@rachinsky.de,,secondary,Nicolas Rachinsky,nicolas@dauerreden.de

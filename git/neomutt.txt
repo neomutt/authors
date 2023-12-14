@@ -215,12 +215,14 @@ neomutt,lucilanga@7pot.org,lucilanga,preferred,Lucian Langa,lucilanga@7pot.org
 neomutt,ludwig@ma.tum.de,luchr,preferred,Christian Ludwig,ludwig@ma.tum.de
 neomutt,mail@cdroege.de,cdroege,preferred,Christian Dröge,mail@cdroege.de
 neomutt,mail@dennis-schoen.de,roccoblues,preferred,Dennis Schön,mail@dennis-schoen.de
+neomutt,mail@mkempe.com,MeindertKempe,preferred,Meindert Kempe,mail@mkempe.com
 neomutt,mako@atdot.cc,makoshark,preferred,Benjamin Mako Hill,mako@atdot.cc
 neomutt,manphiz@gmail.com,manphiz,preferred,Deng Xiyue,manphiz@gmail.com
 neomutt,marco@sirabella.org,mjsir911,preferred,Marco Sirabella,marco@sirabella.org
 neomutt,marius@gedmin.as,mgedmin,preferred,Marius Gedminas,marius@gedmin.as
 neomutt,mark@stengle.in,ocelotsloth,preferred,Mark Stenglein,mark@stengle.in
 neomutt,matthewhughes934@gmail.com,matthewhughes934,preferred,Matthew Hughes,matthewhughes934@gmail.com
+neomutt,matthias.gerstner@suse.de,mgerstner,preferred,Matthias Gerstner,matthias.gerstner@suse.de
 neomutt,mbazzinotti@gmail.com,NONE,preferred,Michael Bazzinotti,mbazzinotti@gmail.com
 neomutt,mbazzinotti@gmail.com,NONE,secondary,Michael J. Bazzinotti,mbazzinotti@gmail.com
 neomutt,mh.codebro@gmail.com,mhinz,preferred,Marco Hinz,mh.codebro@gmail.com
