@@ -130,6 +130,7 @@ neomutt,gahr@gahr.ch,gahr,preferred,Pietro Cerutti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Ceruti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Cerutti (@gahr),gahr@gahr.ch
 neomutt,gerrit@macclub-os.de,kbcb,preferred,Gerrit Rüsing,gerrit@macclub-os.de
+neomutt,gerrit@macclub-os.de,kbcb,secondary,kbcb,gerrit@macclub-os.de
 neomutt,gerrit@macclub-os.de,kbcb,secondary,Gerrit,gerrit@macclub-os.de
 neomutt,gerrit@macclub-os.de,kbcb,secondary,Gerrit,ruesing@posteo.de
 neomutt,git@darnir.net,darnir,preferred,Darshit Shah,git@darnir.net
