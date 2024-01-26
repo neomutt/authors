@@ -269,8 +269,9 @@ neomutt,nsteeves@gmail.com,sten0,secondary,Nicholas D Steeves,nsteeves@gmail.com
 neomutt,oliver@first.in-berlin.de,klartext,preferred,Oliver Bandel,oliver@first.in-berlin.de
 neomutt,p@ocmatos.com,pmatos,preferred,Paulo Matos,p@ocmatos.com
 neomutt,pablo1@mailbox.org,pinpox,preferred,Pablo Ovelleiro Corral,pablo1@mailbox.org
-neomutt,parazyd@dyne.org,parazyd,preferred,Ivan J,parazyd@dyne.org
-neomutt,parazyd@dyne.org,parazyd,preferred,parazyd,parazyd@dyne.org
+neomutt,parazyd@dyne.org,parazyd,preferred,Ivan Jelincic,parazyd@dyne.org
+neomutt,parazyd@dyne.org,parazyd,secondary,Ivan J,parazyd@dyne.org
+neomutt,parazyd@dyne.org,parazyd,secondary,parazyd,parazyd@dyne.org
 neomutt,parazyd@dyne.org,parazyd,secondary,Ivan J,parazyd@users.noreply.github.com
 neomutt,paul@spacefreak18.xyz,spacefreak18,preferred,Paul Dino Jones,paul@spacefreak18.xyz
 neomutt,pekdon@gmail.com,pekdon,preferred,Claes Nästén,pekdon@gmail.com
