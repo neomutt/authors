@@ -133,6 +133,7 @@ neomutt,gerrit@macclub-os.de,kbcb,preferred,Gerrit Rüsing,gerrit@macclub-os.de
 neomutt,gerrit@macclub-os.de,kbcb,secondary,kbcb,gerrit@macclub-os.de
 neomutt,gerrit@macclub-os.de,kbcb,secondary,Gerrit,gerrit@macclub-os.de
 neomutt,gerrit@macclub-os.de,kbcb,secondary,Gerrit,ruesing@posteo.de
+neomutt,git@clifford.lol,tim-clifford,preferred,Tim Clifford,git@clifford.lol
 neomutt,git@darnir.net,darnir,preferred,Darshit Shah,git@darnir.net
 neomutt,git@darnir.net,darnir,secondary,Darshit Shah,darnir@gmail.com
 neomutt,git@darnir.net,darnir,secondary,Darshit Shah,darnir@users.noreply.github.com
@@ -222,6 +223,7 @@ neomutt,manphiz@gmail.com,manphiz,preferred,Deng Xiyue,manphiz@gmail.com
 neomutt,marco@sirabella.org,mjsir911,preferred,Marco Sirabella,marco@sirabella.org
 neomutt,marius@gedmin.as,mgedmin,preferred,Marius Gedminas,marius@gedmin.as
 neomutt,mark@stengle.in,ocelotsloth,preferred,Mark Stenglein,mark@stengle.in
+neomutt,mateus.etto@proton.me,yutsuten,preferred,Mateus Etto,mateus.etto@proton.me
 neomutt,matthewhughes934@gmail.com,matthewhughes934,preferred,Matthew Hughes,matthewhughes934@gmail.com
 neomutt,matthias.gerstner@suse.de,mgerstner,preferred,Matthias Gerstner,matthias.gerstner@suse.de
 neomutt,mbazzinotti@gmail.com,NONE,preferred,Michael Bazzinotti,mbazzinotti@gmail.com
@@ -241,6 +243,7 @@ neomutt,mrajner@gik.pw.edu.pl,mrajner,secondary,Marcin Rajner,mrajner@chalmers
 neomutt,mrajner@gik.pw.edu.pl,mrajner,secondary,Marcin Rajner,mrajner@lenovo
 neomutt,mrajner@gik.pw.edu.pl,mrajner,secondary,Marcin Rajner,mrajner@lenovoarch
 neomutt,mrajner@gik.pw.edu.pl,mrajner,secondary,Marcin Rajner,mrajner@pwarch
+neomutt,muralianiruddhan@gmail.com,ashamedbit,preferred,ashamedbit,muralianiruddhan@gmail.com
 neomutt,mutt@cert.siemens.de,NONE,preferred,Udo Schweigert,mutt@cert.siemens.de
 neomutt,nabijaczleweli@nabijaczleweli.xyz,nabijaczleweli,preferred,наб,nabijaczleweli@nabijaczleweli.xyz
 neomutt,nabijaczleweli@nabijaczleweli.xyz,nabijaczleweli,secondary,наб,nabijaczleweli@gmail.com
@@ -362,6 +365,7 @@ neomutt,thomas@xteddy.org,thomasadam,preferred,Thomas Adam,thomas@xteddy.org
 neomutt,timmyxiao1@gmail.com,NONE,preferred,Timmy Xiao,timmyxiao1@gmail.com
 neomutt,timothyqiu32@gmail.com,timothyqiu,preferred,Haoyu Qiu,timothyqiu32@gmail.com
 neomutt,tobias@stoeckmann.org,stoeckmann,preferred,Tobias Stoeckmann,tobias@stoeckmann.org
+neomutt,tomas.prochazka5d@gmail.com,prochac,preferred,Tomáš Karela Procházka,tomas.prochazka5d@gmail.com
 neomutt,toogley@mailbox.org,toogley,preferred,Tobias Angele,toogley@mailbox.org
 neomutt,toogley@mailbox.org,toogley,secondary,toogley,9417950+toogley@users.noreply.github.com
 neomutt,toogley@mailbox.org,toogley,secondary,toogley,toogley@mailbox.org
