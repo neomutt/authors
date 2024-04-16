@@ -166,8 +166,9 @@ neomutt,jack@phroa.net,phroa,preferred,Jack Stratton,jack@phroa.net
 neomutt,jak@jak-linux.org,julian-klode,preferred,Julian Andres Klode,jak@jak-linux.org
 neomutt,jakub.jindra@socialbakers.com,jindraj,preferred,Jakub Jindra,jakub.jindra@socialbakers.com
 neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,jindraj@users.noreply.github.com
-neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,jakub.jindra@socialbakers.com
 neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,skomonster@gmail.com
+neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,jakub.jindra@socialbakers.com
+neomutt,jakub.jindra@socialbakers.com,jindraj,secondary,Jakub Jindra,skomonster@gmail.com
 neomutt,jakubk0.kaczor@gmail.com,jakubkaczor,preferred,Jakub Kaczor,jakubk0.kaczor@gmail.com
 neomutt,james@jamesbvaughan.com,jamesbvaughan,preferred,James Vaughan,james@jamesbvaughan.com
 neomutt,jan.krieg.github796@magnonic.net,jan-krieg,preferred,Jan Krieg,jan.krieg.github796@magnonic.net
