@@ -23,6 +23,7 @@ mutt,at@altlinux.org,,preferred,Alexey Tourbin,at@altlinux.org
 mutt,aw@osn.de,,preferred,Armin Wolfermann,aw@osn.de
 mutt,awn@bcs.zp.ua,,preferred,Andrew Nosenko,awn@bcs.zp.ua
 mutt,awn@bcs.zp.ua,,secondary,Andrew W. Nosenko,awn@bcs.zp.ua
+mutt,balejk@matfyz.cz,,preferred,Karel Balej,balejk@matfyz.cz
 mutt,bat.guano@don.blech.e4ward.com,,preferred,Unknown,bat.guano@don.blech.e4ward.com
 mutt,beck@ibh.de,,preferred,Andre Beck,beck@ibh.de
 mutt,beck@ibh.de,,secondary,Beck\, Andre,beck@ibh.de
