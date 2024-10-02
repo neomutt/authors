@@ -153,6 +153,7 @@ neomutt,guyzmo+github+pub@m0g.net,guyzmo,secondary,Guyzmo,guyzmo+github+pub@m0g.
 neomutt,guyzmo+github+pub@m0g.net,guyzmo,secondary,guyzmo,guyzmo+github+pub@m0g.net
 neomutt,herbert@gojira.at,NONE,preferred,Herbert J Skuhra,herbert@gojira.at
 neomutt,hi@alyssa.is,alyssais,preferred,Alyssa Ross,hi@alyssa.is
+neomutt,homoelectromagneticus@protonmail.com,homoelectromagneticus,preferred,Ryan d'Huart,homoelectromagneticus@protonmail.com
 neomutt,hugo@barrera.io,whynothugo,preferred,Hugo Barrera,hugo@barrera.io
 neomutt,hugo@barrera.io,whynothugo,secondary,Hugo Osvaldo Barrera,hugo@barrera.io
 neomutt,igor47@moomers.org,igor47,preferred,Igor Serebryany,igor47@moomers.org
