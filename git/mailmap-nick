@@ -52,6 +52,7 @@ caspervector	<CasperVector@gmail.com>	Casper Ti. Vector <CasperVector@gmail.com>
 cbrownstein	<cbrownstein@liquidityllc.com>	Cody Brownstein <cbrownstein@liquidityllc.com>
 cdrage	<charlie@charliedrage.com>	Charlie Drage <charlie@charliedrage.com>
 cdroege	<mail@cdroege.de>	Christian Dröge <mail@cdroege.de>
+charles2910	<charlesmelara@riseup.net>	Carlos Henrique Lima Melara <34252251+charles2910@users.noreply.github.com>
 charles2910	<charlesmelara@riseup.net>	Carlos Henrique Lima Melara <charlesmelara@outlook.com>
 charles2910	<charlesmelara@riseup.net>	Carlos Henrique Lima Melara <charlesmelara@riseup.net>
 christopher-john-czettel	<chris@christopher-czettel.net>	Chris Czettel <chris@christopher-czettel.net>
@@ -109,6 +110,7 @@ fekir	<federico.kircheis@gmail.com>	fekir <federico.kircheis@gmail.com>
 ferkohajik	<ferko.hajik@gmail.com>	František Hájik <ferko.hajik@gmail.com>
 flatcap	<rich@flatcap.org>	LGTM Migrator <lgtm-migrator@users.noreply.github.com>
 flatcap	<rich@flatcap.org>	Richard Russon (DEPLOY) <rich@flatcap.org>
+flatcap	<rich@flatcap.org>	Richard Russon <<rich@flatcap.org>>
 flatcap	<rich@flatcap.org>	Richard Russon <rich@flatcap.org>
 floand	<f.a@31c0.net>	Floyd Anderson <f.a@31c0.net>
 flokli	<flokli@flokli.de>	Florian Klink <flokli@flokli.de>
@@ -245,8 +247,8 @@ NONE	<johannes@frankenau.net>	Johannes Frankenau <johannes@frankenau.net>
 NONE	<mbazzinotti@gmail.com>	Michael Bazzinotti <mbazzinotti@gmail.com>
 NONE	<mbazzinotti@gmail.com>	Michael J. Bazzinotti <mbazzinotti@gmail.com>
 NONE	<mutt@cert.siemens.de>	Udo Schweigert <mutt@cert.siemens.de>
-NONE	<ng0@n0.is>	ng0 <ng0@infotropique.org>
-NONE	<ng0@n0.is>	ng0 <ng0@n0.is>
+NONE	<nikita@n0.is>	ng0 <ng0@infotropique.org>
+NONE	<nikita@n0.is>	ng0 <ng0@n0.is>
 NONE	<regid23@nt1.in>	Regid Ichira <regid23@nt1.in>
 NONE	<reisradomil@fake-box.com>	Reis Radomil <reisradomil@fake-box.com>
 NONE	<rtlanceroad@gmail.com>	rtlanceroad <rtlanceroad@gmail.com>
@@ -394,6 +396,7 @@ UPSTREAM 	<dev@mutt.org>	Aaron Schrab <aaron+mutt@schrab.com>
 UPSTREAM 	<dev@mutt.org>	Aaron Schrab <aaron@schrab.com>
 UPSTREAM 	<dev@mutt.org>	Adeodato Simó <asp16@alu.ua.es>
 UPSTREAM 	<dev@mutt.org>	Adeodato Simó <dato@net.com.org.es>
+UPSTREAM 	<dev@mutt.org>	Aitor Soroa <a.soroa@gmail.com>
 UPSTREAM 	<dev@mutt.org>	Alain Bench <messtic@oreka.com>
 UPSTREAM 	<dev@mutt.org>	Alain Bench <veronatif@free.fr>
 UPSTREAM 	<dev@mutt.org>	Alain Penders <alain@finale-dev.com>
@@ -437,6 +440,7 @@ UPSTREAM 	<dev@mutt.org>	Brent Nordquist <brent@nordist.net>
 UPSTREAM 	<dev@mutt.org>	Bruno Postle <bruno@postle.net>
 UPSTREAM 	<dev@mutt.org>	Byrial Jensen <byrial@image.dk>
 UPSTREAM 	<dev@mutt.org>	Cameron Patrick <cameron@patrick.wattle.id.au>
+UPSTREAM 	<dev@mutt.org>	Cameron Simpson <cs@cskk.id.au>
 UPSTREAM 	<dev@mutt.org>	Cedric Duval <cedricduval@free.fr>
 UPSTREAM 	<dev@mutt.org>	Cedric Duval <cedricduval+web@free.fr>
 UPSTREAM 	<dev@mutt.org>	Christian Aichinger <greek0@gmx.net>
@@ -446,6 +450,7 @@ UPSTREAM 	<dev@mutt.org>	Christoph Ludwig <cludwig@cdc.informatik.tu-darmstadt.d
 UPSTREAM 	<dev@mutt.org>	Consus <consus@gmx.com>
 UPSTREAM 	<dev@mutt.org>	convert-repo <unknown>
 UPSTREAM 	<dev@mutt.org>	Corey Minyard <cminyard@mvista.com>
+UPSTREAM 	<dev@mutt.org>	Craig Gallek <cgallek@gmail.com>
 UPSTREAM 	<dev@mutt.org>	Cyril Roelandt <tipecaml@gmail.com>
 UPSTREAM 	<dev@mutt.org>	Dale Woolridge <dale-flea-mutt-bug@woolridge.org>
 UPSTREAM 	<dev@mutt.org>	Dale Woolridge <dale-list-mutt-dev-2@woolridge.org>
@@ -548,6 +553,7 @@ UPSTREAM 	<dev@mutt.org>	Marcel Telka <marcel@telka.sk>
 UPSTREAM 	<dev@mutt.org>	Marco d'Itri <md@linux.it>
 UPSTREAM 	<dev@mutt.org>	Marco Paolone <marcopaolone@gmail.com>
 UPSTREAM 	<dev@mutt.org>	Marek Marczykowski-Górecki <marmarek@invisiblethingslab.com>
+UPSTREAM 	<dev@mutt.org>	Martin F Kraft <madduck@madduck.net>
 UPSTREAM 	<dev@mutt.org>	Martin Michlmayr <tbm@cyrius.com>
 UPSTREAM 	<dev@mutt.org>	Martin Sandsmark <martin@sandsmark.ninja>
 UPSTREAM 	<dev@mutt.org>	Martin Siegert <siegert@sfu.ca>
@@ -579,6 +585,7 @@ UPSTREAM 	<dev@mutt.org>	Nicolas Rachinsky <nicolas@dauerreden.de>
 UPSTREAM 	<dev@mutt.org>	Nicolas Rachinsky <nr@rachinsky.de>
 UPSTREAM 	<dev@mutt.org>	Nik A. Melchior <nam1@cec.wustl.edu>
 UPSTREAM 	<dev@mutt.org>	Nik Melchior <nam1@cec.wustl.edu>
+UPSTREAM 	<dev@mutt.org>	Nikolaos Kakouros <nkak@kth.se>
 UPSTREAM 	<dev@mutt.org>	N.J. Mann <njm@njm.f2s.com>
 UPSTREAM 	<dev@mutt.org>	NONAKA Kimihiro <nonakap@gmail.com>
 UPSTREAM 	<dev@mutt.org>	Norman Wood <normw013@fastmail.fm>
@@ -605,6 +612,7 @@ UPSTREAM 	<dev@mutt.org>	Phil Pennock <mutt-dev@spodhuis.demon.nl>
 UPSTREAM 	<dev@mutt.org>	Philipp Gesang <philipp.gesang@intra2net.com>
 UPSTREAM 	<dev@mutt.org>	pi <pi@beobide.net>
 UPSTREAM 	<dev@mutt.org>	Piarres Beobide Egaña <pi@beobide.net>
+UPSTREAM 	<dev@mutt.org>	Pieter-Tjerk de Boer <p.t.deboer@utwente.nl>
 UPSTREAM 	<dev@mutt.org>	Rado S <regrado@web.de>
 UPSTREAM 	<dev@mutt.org>	Rado Smiljanic <regrado@web.de>
 UPSTREAM 	<dev@mutt.org>	Ralf Wildenhues <wildenhues@ins.uni-bonn.de>
@@ -614,6 +622,7 @@ UPSTREAM 	<dev@mutt.org>	Remco Rĳnders <remco@webconquest.com>
 UPSTREAM 	<dev@mutt.org>	René Clerc <rene@clerc.nl>
 UPSTREAM 	<dev@mutt.org>	Ren√© Clerc <rene@clerc.nl>
 UPSTREAM 	<dev@mutt.org>	Rich Burridge <rich.burridge@oracle.com>
+UPSTREAM 	<dev@mutt.org>	Robert Bartel <r.bartel@gmx.net>
 UPSTREAM 	<dev@mutt.org>	Robert Schiele <robert.schiele@t-online.de>
 UPSTREAM 	<dev@mutt.org>	Rocco Rutte <pdmef@gmx.net>
 UPSTREAM 	<dev@mutt.org>	Rocco Rutte <s1118644@mail.inf.tu-dresden.de>
@@ -703,5 +712,6 @@ UPSTREAM 	<dev@mutt.org>	Will Fiveash <will.fiveash@oracle.com>
 UPSTREAM 	<dev@mutt.org>	Will Fiveash <Will.Fiveash@Sun.COM>
 UPSTREAM 	<dev@mutt.org>	Will Fiveash <william.fiveash@sun.com>
 UPSTREAM 	<dev@mutt.org>	Wouter Verheijen <wv@xs2mail.com>
+UPSTREAM 	<dev@mutt.org>	xEgoist <101279047+xEgoist@users.noreply.github.com>
 UPSTREAM 	<dev@mutt.org>	Yasuhiro Matsumoto <mattn_jp@hotmail.com>
 UPSTREAM 	<dev@mutt.org>	YONETANI Tomokazu <qhwt+mutt@les.ath.cx>

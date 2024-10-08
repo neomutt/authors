@@ -39,7 +39,7 @@ function generate()
 
 		[ $prefix == "neomutt" ] && prefix="" || prefix="UPSTREAM "
 		if [ "$preference" == "preferred" ]; then
-			export preferred_email="$email"
+			export preferred_email="$pref_email"
 			export preferred_name="$name"
 		fi
 

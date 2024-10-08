@@ -1,6 +1,8 @@
+mutt,101279047+xEgoist@users.noreply.github.com,,preferred,xEgoist,101279047+xEgoist@users.noreply.github.com
 mutt,1074468571@schiraldi.org,,preferred,Mike Schiraldi,1074468571@schiraldi.org
 mutt,7vvtch802@sneakemail.com,,preferred,ta_panta_rei,7vvtch802@sneakemail.com
 mutt,a.c.li@ieee.org,,preferred,Ambrose Li,a.c.li@ieee.org
+mutt,a.soroa@gmail.com,,preferred,Aitor Soroa,a.soroa@gmail.com
 mutt,aaron@schrab.com,,preferred,Aaron Schrab,aaron@schrab.com
 mutt,aaron@schrab.com,,secondary,Aaron Schrab,aaron+mutt@schrab.com
 mutt,aaronl@vitelus.com,,preferred,Aaron Lehmann,aaronl@vitelus.com
@@ -42,6 +44,7 @@ mutt,byrial@image.dk,,preferred,Byrial Jensen,byrial@image.dk
 mutt,cameron@patrick.wattle.id.au,,preferred,Cameron Patrick,cameron@patrick.wattle.id.au
 mutt,cedricduval@free.fr,,preferred,Cedric Duval,cedricduval@free.fr
 mutt,cedricduval@free.fr,,secondary,Cedric Duval,cedricduval+web@free.fr
+mutt,cgallek@gmail.com,,preferred,Craig Gallek,cgallek@gmail.com
 mutt,ckillian@cs.ucsd.edu,,preferred,Unknown,ckillian@cs.ucsd.edu
 mutt,cludwig@cdc.informatik.tu-darmstadt.de,,preferred,Christoph Ludwig,cludwig@cdc.informatik.tu-darmstadt.de
 mutt,cminyard@mvista.com,,preferred,Corey Minyard,cminyard@mvista.com
@@ -49,6 +52,7 @@ mutt,code@pizzashack.org,,preferred,Derek Martin,code@pizzashack.org
 mutt,code@pizzashack.org,,secondary,Derek Martin,invalid@pizzashack.org
 mutt,consus@gmx.com,,preferred,Consus,consus@gmx.com
 mutt,contact@aramhamo.me,,preferred,Aram Hamo,contact@aramhamo.me
+mutt,cs@cskk.id.au,,preferred,Cameron Simpson,cs@cskk.id.au
 mutt,cypher@conuropsis.org,,preferred,Unknown,cypher@conuropsis.org
 mutt,dale-list-mutt-dev-2@woolridge.org,,preferred,Dale Woolridge,dale-list-mutt-dev-2@woolridge.org
 mutt,dale-list-mutt-dev-2@woolridge.org,,secondary,Dale Woolridge,dale-flea-mutt-bug@woolridge.org
@@ -154,6 +158,7 @@ mutt,lists@jhweiss.de,,preferred,Holger Weiss,lists@jhweiss.de
 mutt,lists@jhweiss.de,,secondary,Holger Weiss,holger@zedat.fu-berlin.de
 mutt,ludwig@fh-worms.de,,preferred,Unknown,ludwig@fh-worms.de
 mutt,luke@mewburn.net,,preferred,Luke Mewburn,luke@mewburn.net
+mutt,madduck@madduck.net,,preferred,Martin F Kraft,madduck@madduck.net
 mutt,malcolm.parsons@gmail.com,,preferred,Malcolm Parsons,malcolm.parsons@gmail.com
 mutt,marcel@telka.sk,,preferred,Marcel Telka,marcel@telka.sk
 mutt,marcel@telka.sk,,secondary,Unknown,marcel@telka.sk
@@ -194,6 +199,7 @@ mutt,nhd+mutt@andrew.cmu.edu,,preferred,Nathan Dushman,nhd+mutt@andrew.cmu.edu
 mutt,nihilhill@gmail.com,,preferred,Unknown,nihilhill@gmail.com
 mutt,njm@njm.f2s.com,,preferred,N J  Mann,njm@njm.f2s.com
 mutt,njm@njm.f2s.com,,secondary,N.J. Mann,njm@njm.f2s.com
+mutt,nkak@kth.se,,preferred,Nikolaos Kakouros,nkak@kth.se
 mutt,nonakap@gmail.com,,preferred,Kimihiro Nonaka,nonakap@gmail.com
 mutt,nonakap@gmail.com,,secondary,NONAKA Kimihiro,nonakap@gmail.com
 mutt,normw013@fastmail.fm,,preferred,Norman Wood,normw013@fastmail.fm
@@ -206,6 +212,7 @@ mutt,olaf@aepfle.de,,preferred,Olaf Hering,olaf@aepfle.de
 mutt,oota@mspd.mt.nec.co.jp,,preferred,Oota Toshiya,oota@mspd.mt.nec.co.jp
 mutt,oota@mspd.mt.nec.co.jp,,secondary,oota toshiya,oota@mspd.mt.nec.co.jp
 mutt,ossi@kde.org,,preferred,Oswald Buddenhagen,ossi@kde.org
+mutt,p.t.deboer@utwente.nl,,preferred,Pieter-Tjerk de Boer,p.t.deboer@utwente.nl
 mutt,paul@black-sun.demon.co.uk,,preferred,Paul Walker,paul@black-sun.demon.co.uk
 mutt,paul@black-sun.demon.co.uk,,secondary,Paul WALKER,paul.walker@st.com
 mutt,pdmef@gmx.net,,preferred,Rocco Rutte,pdmef@gmx.net
@@ -228,6 +235,7 @@ mutt,prlw1@cam.ac.uk,,secondary,Patrick Welche,prlw1@newn.cam.ac.uk
 mutt,pywatson@gmail.com,,preferred,Unknown,pywatson@gmail.com
 mutt,qhwt+mutt@les.ath.cx,,preferred,Tomokazu Yonetani,qhwt+mutt@les.ath.cx
 mutt,qhwt+mutt@les.ath.cx,,secondary,YONETANI Tomokazu,qhwt+mutt@les.ath.cx
+mutt,r.bartel@gmx.net,,preferred,Robert Bartel,r.bartel@gmx.net
 mutt,rac@tenzing.org,,preferred,Roger Cornelius,rac@tenzing.org
 mutt,raorn@altlinux.org,,preferred,Alexey Froloff,raorn@altlinux.org
 mutt,raorn@altlinux.org,,secondary,Alexey I. Froloff,raorn@altlinux.org

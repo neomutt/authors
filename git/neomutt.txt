@@ -65,6 +65,7 @@ neomutt,cb@df7cb.de,df7cb,preferred,Christoph Berg,cb@df7cb.de
 neomutt,cbrownstein@liquidityllc.com,cbrownstein,preferred,Cody Brownstein,cbrownstein@liquidityllc.com
 neomutt,CE.Mohammad.Alsaleh@gmail.com,MoSal,preferred,Mohammad AlSaleh,CE.Mohammad.Alsaleh@gmail.com
 neomutt,charlesmelara@riseup.net,charles2910,preferred,Carlos Henrique Lima Melara,charlesmelara@riseup.net
+neomutt,charlesmelara@riseup.net,charles2910,secondary,Carlos Henrique Lima Melara,34252251+charles2910@users.noreply.github.com
 neomutt,charlesmelara@riseup.net,charles2910,secondary,Carlos Henrique Lima Melara,charlesmelara@outlook.com
 neomutt,charlie@charliedrage.com,cdrage,preferred,Charlie Drage,charlie@charliedrage.com
 neomutt,chris@christopher-czettel.net,christopher-john-czettel,preferred,Chris Czettel,chris@christopher-czettel.net
@@ -306,6 +307,7 @@ neomutt,reto@labrat.space,brunnre8,secondary,Reto,reto@labrat.space
 neomutt,rich@flatcap.org,flatcap,preferred,Richard Russon,rich@flatcap.org
 neomutt,rich@flatcap.org,flatcap,secondary,LGTM Migrator,lgtm-migrator@users.noreply.github.com
 neomutt,rich@flatcap.org,flatcap,secondary,Richard Russon (DEPLOY),rich@flatcap.org
+neomutt,rich@flatcap.org,flatcap,secondary,Richard Russon,<rich@flatcap.org>
 neomutt,RichiH@users.noreply.github.com,richih,preferred,Richard Hartmann,RichiH@users.noreply.github.com
 neomutt,riesebie@lxtec.de,riesebie,preferred,Elimar Riesebieter,riesebie@lxtec.de
 neomutt,rionda@acm.org,rionda,preferred,Matteo Riondato,rionda@acm.org
