@@ -7,6 +7,7 @@ neomutt,125726770+leonphilman@users.noreply.github.com,leonphilman,preferred,Leo
 neomutt,125726770+leonphilman@users.noreply.github.com,leonphilman,secondary,leonphilman,125726770+leonphilman@users.noreply.github.com
 neomutt,18015852+libBletchley@users.noreply.github.com,NONE,preferred,Bletchley Park,18015852+libBletchley@users.noreply.github.com
 neomutt,25959223+x3nb63@users.noreply.github.com,x3nb63,preferred,x3nb63,25959223+x3nb63@users.noreply.github.com
+neomutt,2gbleh@gmail.com,googlebleh,preferred,Colin Wee,2gbleh@gmail.com
 neomutt,30379873+carlocab@users.noreply.github.com,carlocab,preferred,Carlo Cabrera,30379873+carlocab@users.noreply.github.com
 neomutt,44787359+AdamKorcz@users.noreply.github.com,adamkorcz,preferred,Adam Korcz,44787359+AdamKorcz@users.noreply.github.com
 neomutt,44787359+AdamKorcz@users.noreply.github.com,adamkorcz,secondary,AdamKorcz,44787359+AdamKorcz@users.noreply.github.com
@@ -216,6 +217,7 @@ neomutt,leo@finalresort.org,rawtaz,secondary,rawtaz,rawtaz@users.noreply.github.
 neomutt,leonardo@schenkel.net,lbschenkel,preferred,Leonardo Schenkel,leonardo@schenkel.net
 neomutt,leonardo@schenkel.net,lbschenkel,secondary,Leonardo Brondani Schenkel,leonardo@schenkel.net
 neomutt,lethaljellybean@gmail.com,psyomn,preferred,Simon Symeonidis,lethaljellybean@gmail.com
+neomutt,ljw2017@sjtu.edu.cn,ljw20180420,preferred,李经纬,ljw2017@sjtu.edu.cn
 neomutt,louis@openbooking.ch,louis77,preferred,Louis Brauer,louis@openbooking.ch
 neomutt,lucas.bourneuf@laposte.net,aluriak,preferred,Lucas Bourneuf,lucas.bourneuf@laposte.net
 neomutt,lucas.bourneuf@laposte.net,aluriak,secondary,Aluriak,lucas.bourneuf@laposte.net
