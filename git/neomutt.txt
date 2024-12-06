@@ -78,6 +78,7 @@ neomutt,christos@margiolis.net,christosmarg,preferred,Christos Margiolis,christo
 neomutt,christos@margiolis.net,christosmarg,secondary,Christos Margiolis,christos@christosmarg.xyz
 neomutt,chti.gdb@gmail.com,gaael,preferred,Gaël Dubois,chti.gdb@gmail.com
 neomutt,ckardaris@outlook.com,ckardaris,preferred,Charalampos Kardaris,ckardaris@outlook.com
+neomutt,ckhung@cyut.edu.tw,ckhung,preferred,Chao-Kuei Hung,ckhung@cyut.edu.tw
 neomutt,clkamp@lkamp.de,clkamp,preferred,Christian Lütke-Stetzkamp,clkamp@lkamp.de
 neomutt,clkamp@lkamp.de,clkamp,secondary,Christian Luetke Stetzkamp,clkamp@lkamp.de
 neomutt,contact@ryper.org,rypervenche,preferred,Perry Thompson,contact@ryper.org
@@ -128,6 +129,8 @@ neomutt,flokli@flokli.de,flokli,preferred,Florian Klink,flokli@flokli.de
 neomutt,florian@whnr.de,whnr,preferred,Florian Wehner,florian@whnr.de
 neomutt,frank.gruellich@gmail.com,FrankGruellich,preferred,Frank Grüllich,frank.gruellich@gmail.com
 neomutt,frederik@ofb.net,archenemies,preferred,Frederick Eaton,frederik@ofb.net
+neomutt,frei-0xff@users.noreply.github.com,frei-0xff,preferred,Dmitry Polunin,frei-0xff@users.noreply.github.com
+neomutt,frei-0xff@users.noreply.github.com,frei-0xff,secondary,frei-0xff,frei-0xff@users.noreply.github.com
 neomutt,ftilde@tamepointer.de,ftilde,preferred,ftilde,ftilde@tamepointer.de
 neomutt,ftilde@tamepointer.de,ftilde,secondary,ftilde,ftilde@protonmail.com
 neomutt,gahr@gahr.ch,gahr,preferred,Pietro Cerutti,gahr@gahr.ch
