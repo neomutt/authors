@@ -94,6 +94,7 @@ neomutt,damien.riegel@gmail.com,d-k-c,secondary,Damien Riegel,damien.riegel@savo
 neomutt,damien.riegel@gmail.com,d-k-c,secondary,Damien Riegel,damien@riegel.io
 neomutt,darren.kenny@oracle.com,darrenkenny,preferred,Darren Kenny,darren.kenny@oracle.com
 neomutt,dcpurton@marshwiggle.net,dcpurton,preferred,David Purton,dcpurton@marshwiggle.net
+neomutt,deller@gmx.de,hdeller,preferred,Helge Deller,deller@gmx.de
 neomutt,dev@somini.xyz,somini,preferred,somini,dev@somini.xyz
 neomutt,dev@somini.xyz,somini,secondary,somini,somini29@yandex.com
 neomutt,dev@somini.xyz,somini,secondary,somini,somini@users.noreply.github.com
