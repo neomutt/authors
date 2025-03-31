@@ -147,6 +147,7 @@ neomutt,git@darnir.net,darnir,secondary,Darshit Shah,darnir@gmail.com
 neomutt,git@darnir.net,darnir,secondary,Darshit Shah,darnir@users.noreply.github.com
 neomutt,git@diabonas.de,diabonas,preferred,Jonas Witschel,git@diabonas.de
 neomutt,git@diabonas.de,diabonas,secondary,Jonas Witschel,diabonas@gmx.de
+neomutt,git@grubix.eu,mjg,preferred,Michael J Gruber,git@grubix.eu
 neomutt,github@mcmilk.de,mcmilk,preferred,Tino Reichardt,github@mcmilk.de
 neomutt,github@mcmilk.de,mcmilk,secondary,Tino Reichardt,milky-neomutt@mcmilk.de
 neomutt,gomba007@gmail.com,g0mb4,preferred,Tóth János,gomba007@gmail.com
@@ -237,6 +238,7 @@ neomutt,marco@sirabella.org,mjsir911,preferred,Marco Sirabella,marco@sirabella.o
 neomutt,marius@gedmin.as,mgedmin,preferred,Marius Gedminas,marius@gedmin.as
 neomutt,mark@stengle.in,ocelotsloth,preferred,Mark Stenglein,mark@stengle.in
 neomutt,mateus.etto@proton.me,yutsuten,preferred,Mateus Etto,mateus.etto@proton.me
+neomutt,mateus.etto@gmail.com,yutsuten,secondary,Mateus Eto,mateus.etto@gmail.com
 neomutt,matthewhughes934@gmail.com,matthewhughes934,preferred,Matthew Hughes,matthewhughes934@gmail.com
 neomutt,matthias.gerstner@suse.de,mgerstner,preferred,Matthias Gerstner,matthias.gerstner@suse.de
 neomutt,mbazzinotti@gmail.com,NONE,preferred,Michael Bazzinotti,mbazzinotti@gmail.com
