@@ -202,6 +202,8 @@ neomutt,jperkin@netbsd.org,jperkin,preferred,Jonathan Perkin,jperkin@netbsd.org
 neomutt,jpoimboe@redhat.com,jpoimboe,preferred,Josh Poimboeuf,jpoimboe@redhat.com
 neomutt,justin.vasel@gmail.com,justinvasel,preferred,Justin Vasel,justin.vasel@gmail.com
 neomutt,jwilk@jwilk.net,jwilk,preferred,Jakub Wilk,jwilk@jwilk.net
+neomutt,jxlambda@pm.me,jxlambda,preferred,Juris Lambda,jxlambda@pm.me
+neomutt,keithbowes@users.noreply.github.com,keithbowes,preferred,Keith Bowes,keithbowes@users.noreply.github.com
 neomutt,kevin@kdecherf.com,kdecherf,preferred,Kevin Decherf,kevin@kdecherf.com
 neomutt,kevin@paretje.be,paretje,preferred,Kevin Velghe,kevin@paretje.be
 neomutt,kilobyte@angband.pl,kilobyte,preferred,Adam Borowski,kilobyte@angband.pl
