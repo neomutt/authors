@@ -210,6 +210,7 @@ neomutt,kilobyte@angband.pl,kilobyte,preferred,Adam Borowski,kilobyte@angband.pl
 neomutt,kmhzsem@gmx.com,dset0x,preferred,Dimitrios Semitsoglou-Tsiapos,kmhzsem@gmx.com
 neomutt,Konfekt@users.noreply.github.com,konfekt,preferred,Enno Nagel,Konfekt@users.noreply.github.com
 neomutt,Konfekt@users.noreply.github.com,konfekt,secondary,Enno,Konfekt@users.noreply.github.com
+neomutt,krishnagopi487.github@outlook.com,gopi487krishna,preferred,Gopi Krishna Menon,krishnagopi487.github@outlook.com
 neomutt,kuleshovmail@gmail.com,onlyshk,preferred,Alexander Kuleshov,kuleshovmail@gmail.com
 neomutt,kwantam@gmail.com,kwantam,preferred,Riad Wahby,kwantam@gmail.com
 neomutt,kwantam@gmail.com,kwantam,secondary,Riad S. Wahby,kwantam@gmail.com
@@ -404,6 +405,7 @@ neomutt,will@robotican.org,wcurry,preferred,Will Curry,will@robotican.org
 neomutt,william.pettersson@gmail.com,wpettersson,preferred,William Pettersson,william.pettersson@gmail.com
 neomutt,william.pettersson@gmail.com,wpettersson,secondary,William Pettersson,william.pettersson+github@gmail.com
 neomutt,wiz@netbsd.org,0-wiz-0,preferred,Thomas Klausner,wiz@netbsd.org
+neomutt,wiz@netbsd.org,0-wiz-0,secondary,Thomas Klausner,wiz@gatalith.at
 neomutt,wuzy01@qq.com,wzy,preferred,Freed-Wu,wuzy01@qq.com
 neomutt,wuzy01@qq.com,wzy,secondary,wzy,32936898+Freed-Wu@users.noreply.github.com
 neomutt,yoshiki89@gmail.com,eldeveloper,preferred,Yoshiki Vázquez Baeza,yoshiki89@gmail.com
