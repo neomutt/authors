@@ -406,8 +406,8 @@ neomutt,william.pettersson@gmail.com,wpettersson,preferred,William Pettersson,wi
 neomutt,william.pettersson@gmail.com,wpettersson,secondary,William Pettersson,william.pettersson+github@gmail.com
 neomutt,wiz@netbsd.org,0-wiz-0,preferred,Thomas Klausner,wiz@netbsd.org
 neomutt,wiz@netbsd.org,0-wiz-0,secondary,Thomas Klausner,wiz@gatalith.at
-neomutt,wuzy01@qq.com,wzy,preferred,Freed-Wu,wuzy01@qq.com
-neomutt,wuzy01@qq.com,wzy,secondary,wzy,32936898+Freed-Wu@users.noreply.github.com
+neomutt,wuzy01@qq.com,freed-wu,preferred,Freed-Wu,wuzy01@qq.com
+neomutt,wuzy01@qq.com,freed-wu,secondary,wzy,32936898+Freed-Wu@users.noreply.github.com
 neomutt,yoshiki89@gmail.com,eldeveloper,preferred,Yoshiki Vázquez Baeza,yoshiki89@gmail.com
 neomutt,yousef@yhakbar.com,yousefakbar,preferred,Yousef Akbar,yousef@yhakbar.com
 neomutt,zack@upsilon.cc,zacchiro,preferred,Stefano Zacchiroli,zack@upsilon.cc
