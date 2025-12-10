@@ -350,6 +350,7 @@ neomutt,sileht@sileht.net,sileht,preferred,Mehdi Abaakouk,sileht@sileht.net
 neomutt,sileht@sileht.net,sileht,secondary,Mehdi ABAAKOUK,sileht@sileht.net
 neomutt,simonreichel@giese-optik.de,amudtogal,preferred,Simon Reichel,simonreichel@giese-optik.de
 neomutt,simonreichel@giese-optik.de,amudtogal,secondary,Simon Reichel,simms1@web.de
+neomutt,sam.koved@gmail.com,skoved,preferred,Sam Koved,sam.koved@gmail.com
 neomutt,software@bertram-scharpf.de,bertramscharpf,preferred,Bertram Scharpf,software@bertram-scharpf.de
 neomutt,speed47_github@speed47.net,speed47,preferred,Stéphane Lesimple,speed47_github@speed47.net
 neomutt,sstark@mailbox.org,sstark,preferred,Sebastian Stark,sstark@mailbox.org
@@ -381,6 +382,8 @@ neomutt,theojepsen@gmail.com,theojepsen,secondary,Theo,theojepsen@g-m-a-i-l-dotc
 neomutt,thomas.jarosch@intra2net.com,thomasjfox,preferred,Thomas Jarosch,thomas.jarosch@intra2net.com
 neomutt,thomas.sanchz@gmail.com,daedric,preferred,Thomas Sanchez,thomas.sanchz@gmail.com
 neomutt,thomas@xteddy.org,thomasadam,preferred,Thomas Adam,thomas@xteddy.org
+neomutt,thomas@xteddy.org,thomasadam,secondary,Thomas Adam,ThomasAdam@users.noreply.github.com
+neomutt,thomas@xteddy.org,thomasadam,secondary,Thomas Adam,thomas.adam22@gmail.com
 neomutt,timmyxiao1@gmail.com,NONE,preferred,Timmy Xiao,timmyxiao1@gmail.com
 neomutt,timothyqiu32@gmail.com,timothyqiu,preferred,Haoyu Qiu,timothyqiu32@gmail.com
 neomutt,tobias@stoeckmann.org,stoeckmann,preferred,Tobias Stoeckmann,tobias@stoeckmann.org
