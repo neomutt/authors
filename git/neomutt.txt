@@ -220,6 +220,8 @@ neomutt,larryrtx@gmail.com,lrosenman,preferred,Larry Rosenman,larryrtx@gmail.com
 neomutt,lars.haalck@uni-muenster.de,larshaalck,preferred,Lars Haalck,lars.haalck@uni-muenster.de
 neomutt,lars.haalck@uni-muenster.de,larshaalck,secondary,Lars Haalck,l_haal02@uni-muenster.de
 neomutt,lars@oddbit.com,larsks,preferred,Lars Kellogg-Stedman,lars@oddbit.com
+neomutt,laur.aliste@gmail.com,laur89,preferred,Laur Aliste,laur.aliste@gmail.com
+neomutt,laur.aliste@gmail.com,laur89,secondary,laur,laur.aliste@gmail.com
 neomutt,leo@finalresort.org,rawtaz,preferred,Leo Lundgren,leo@finalresort.org
 neomutt,leo@finalresort.org,rawtaz,secondary,Leo R. Lundgren,leo@finalresort.org
 neomutt,leo@finalresort.org,rawtaz,secondary,rawtaz,rawtaz@users.noreply.github.com

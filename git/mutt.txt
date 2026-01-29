@@ -321,4 +321,5 @@ mutt,will.fiveash@oracle.com,,secondary,Will Fiveash,william.fiveash@sun.com
 mutt,wk@gnupg.org,,preferred,Werner Koch,wk@gnupg.org
 mutt,wuodan@hispeed.ch,,preferred,Stefan Kuhn,wuodan@hispeed.ch
 mutt,wv@xs2mail.com,,preferred,Wouter Verheijen,wv@xs2mail.com
+mutt,po@danielnylander.se,yeager,preferred,Daniel Nylander,po@danielnylander.se
 mutt,Zardoz@users.sourceforge.net,,preferred,Unknown,Zardoz@users.sourceforge.net
