@@ -404,6 +404,7 @@ neomutt,valsy@mail.ru,vpub,preferred,Valeri Sergeev,valsy@mail.ru
 neomutt,valsy@mail.ru,vpub,secondary,Valeri Y.Sergeev,valsy@mail.ru
 neomutt,victor.cheburkin@gmail.com,vcheburkin,preferred,Viktor Cheburkin,victor.cheburkin@gmail.com
 neomutt,vishnya@ispras.ru,sweetvishnya,preferred,Alexey Vishnyakov,vishnya@ispras.ru
+neomutt,vlmarek13@gmail.com,vlmarek,preferred,Vladimír Marek,vlmarek13@gmail.com
 neomutt,vuori@notcom.org,vuori,preferred,vuori,vuori@notcom.org
 neomutt,werner@suse.de,bitstreamout,preferred,Werner Fink,werner@suse.de
 neomutt,will@robotican.org,wcurry,preferred,Will Curry,will@robotican.org
