@@ -388,6 +388,7 @@ neomutt,thomas.sanchz@gmail.com,daedric,preferred,Thomas Sanchez,thomas.sanchz@g
 neomutt,thomas@xteddy.org,thomasadam,preferred,Thomas Adam,thomas@xteddy.org
 neomutt,thomas@xteddy.org,thomasadam,secondary,Thomas Adam,ThomasAdam@users.noreply.github.com
 neomutt,thomas@xteddy.org,thomasadam,secondary,Thomas Adam,thomas.adam22@gmail.com
+neomutt,thoorpukarnakar@gmail.com,karnakarreddi,preferred,Karunakar Reddy,thoorpukarnakar@gmail.com
 neomutt,timmyxiao1@gmail.com,NONE,preferred,Timmy Xiao,timmyxiao1@gmail.com
 neomutt,timothyqiu32@gmail.com,timothyqiu,preferred,Haoyu Qiu,timothyqiu32@gmail.com
 neomutt,tobias@stoeckmann.org,stoeckmann,preferred,Tobias Stoeckmann,tobias@stoeckmann.org
