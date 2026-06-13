@@ -194,6 +194,8 @@ neomutt,jelle@vdwaa.nl,jelly,preferred,Jelle van der Waa,jelle@vdwaa.nl
 neomutt,jeriko.one@gmx.us,jeriko-one,preferred,JerikoOne,jeriko.one@gmx.us
 neomutt,jlmuir@imca-cat.org,jlmuir,preferred,J Lewis Muir,jlmuir@imca-cat.org
 neomutt,jlmuir@imca-cat.org,jlmuir,secondary,J. Lewis Muir,jlmuir@imca-cat.org
+neomutt,jmestwa@gmail.com,jmestwa-coder,preferred,Javeed Khan,jmestwa@gmail.com
+neomutt,jmestwa@gmail.com,jmestwa-coder,secondary,jmestwa-coder,jmestwa@gmail.com
 neomutt,joeypabalinas@gmail.com,alyptik,preferred,Joey Pabalinas,joeypabalinas@gmail.com
 neomutt,johannes@frankenau.net,NONE,preferred,Johannes Frankenau,johannes@frankenau.net
 neomutt,john@charpa.org,john-at-charpa,preferred,John Wood,john@charpa.org
