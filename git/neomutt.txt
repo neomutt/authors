@@ -60,6 +60,7 @@ neomutt,bjorn.ketelaars@hydroxide.nl,bket,preferred,Björn Ketelaars,bjorn.ketel
 neomutt,brendan.mclean@gmail.com,bmclean2,preferred,Brendan McLean,brendan.mclean@gmail.com
 neomutt,brendan.mclean@gmail.com,bmclean2,secondary,bmclean2,brendan.mclean@posteo.net
 neomutt,bvh@scriptor.pro,scriptor-pro,preferred,Baudouin Van Humbeck,bvh@scriptor.pro
+neomutt,bwiedemann@suse.de,bmwiedemann,preferred,Bernhard M. Wiedemann,bwiedemann@suse.de
 neomutt,CasperVector@gmail.com,caspervector,preferred,Casper Ti Vector,CasperVector@gmail.com
 neomutt,CasperVector@gmail.com,caspervector,secondary,Casper Ti. Vector,CasperVector@gmail.com
 neomutt,cb@df7cb.de,df7cb,preferred,Christoph Berg,cb@df7cb.de
@@ -135,6 +136,7 @@ neomutt,frei-0xff@users.noreply.github.com,frei-0xff,preferred,Dmitry Polunin,fr
 neomutt,frei-0xff@users.noreply.github.com,frei-0xff,secondary,frei-0xff,frei-0xff@users.noreply.github.com
 neomutt,ftilde@tamepointer.de,ftilde,preferred,ftilde,ftilde@tamepointer.de
 neomutt,ftilde@tamepointer.de,ftilde,secondary,ftilde,ftilde@protonmail.com
+neomutt,funsafemath@proton.me,funsafemath,preferred,funsafemath,funsafemath@proton.me
 neomutt,gahr@gahr.ch,gahr,preferred,Pietro Cerutti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Ceruti,gahr@gahr.ch
 neomutt,gahr@gahr.ch,gahr,secondary,Pietro Cerutti (@gahr),gahr@gahr.ch
